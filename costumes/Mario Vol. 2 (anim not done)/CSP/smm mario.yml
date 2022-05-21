@@ -1,0 +1,7215 @@
+frame: 117
+cSPMode: true
+showGrid: false
+showBackdrop: false
+camera:
+  x: 1.27064705
+  y: 7.154109
+  z: -66.4317093
+  scale: 1
+  fovRadians: 0.34906584
+  rotationXRadians: 0.0209440012
+  rotationYRadians: -0.146607786
+  farClipPlane: 100000
+  nearClipPlane: 10
+settings:
+  renderBones: false
+  renderOrientation: false
+  renderObjects: true
+  outlineSelected: false
+lighting:
+  useCameraLight: true
+  lightX: 0
+  lightY: 10
+  lightZ: 50
+  ambientPower: 0.5
+  ambientR: 255
+  ambientG: 255
+  ambientB: 255
+  diffusePower: 1
+  diffuseR: 255
+  diffuseG: 255
+  diffuseB: 255
+  usePerPixelLighting: true
+  saturation: 1
+animation:
+  frameModifier: []
+  enableBoneLookup: false
+  boneLookup: {}
+  frameCount: 120
+  nodeCount: 61
+  nodes:
+  - tracks: []
+  - tracks: []
+  - tracks: []
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 1
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 1
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 8
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_SCAX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 1
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 9
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_SCAY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 1
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 10
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_SCAZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0.436309814
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0.436309814
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SPL
+      - frame: 23
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SPL
+      - frame: 89
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 5
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -1.15576172
+        tan: -0.0289916992
+        interpolationType: HSD_A_OP_SPL
+      - frame: 23
+        value: -1.25769043
+        tan: -0.00109863281
+        interpolationType: HSD_A_OP_SPL
+      - frame: 89
+        value: -1.25769043
+        tan: 0.00109863281
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: 0.00323486328
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: -1.15576172
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 120
+        value: -1.15576172
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 6
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: -0.0223999023
+        interpolationType: HSD_A_OP_SPL
+      - frame: 23
+        value: -0.58996582
+        tan: 0
+        interpolationType: HSD_A_OP_SPL
+      - frame: 89
+        value: -0.58996582
+        tan: 0.000183105469
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: 0.0189819336
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 7
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAZ
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: -0.139587402
+        tan: 0.0322265625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 19
+        value: -0.0767822266
+        tan: 0.00518798828
+        interpolationType: HSD_A_OP_SPL
+      - frame: 24
+        value: -0.115539551
+        tan: -0.0159301758
+        interpolationType: HSD_A_OP_SPL
+      - frame: 29
+        value: -0.101379395
+        tan: 0.0169677734
+        interpolationType: HSD_A_OP_SPL
+      - frame: 37
+        value: -0.0969238281
+        tan: -0.016418457
+        interpolationType: HSD_A_OP_SPL
+      - frame: 44
+        value: -0.0983886719
+        tan: 0.016418457
+        interpolationType: HSD_A_OP_SPL
+      - frame: 50
+        value: -0.0969238281
+        tan: -0.016418457
+        interpolationType: HSD_A_OP_SPL
+      - frame: 57
+        value: -0.0983886719
+        tan: 0.016418457
+        interpolationType: HSD_A_OP_SPL
+      - frame: 63
+        value: -0.0969238281
+        tan: -0.016418457
+        interpolationType: HSD_A_OP_SPL
+      - frame: 70
+        value: -0.0983886719
+        tan: 0.016418457
+        interpolationType: HSD_A_OP_SPL
+      - frame: 76
+        value: -0.0969238281
+        tan: -0.016418457
+        interpolationType: HSD_A_OP_SPL
+      - frame: 83
+        value: -0.0983886719
+        tan: 0.016418457
+        interpolationType: HSD_A_OP_SPL
+      - frame: 89
+        value: -0.0909423828
+        tan: -0.0153198242
+        interpolationType: HSD_A_OP_SPL
+      - frame: 101
+        value: -0.16986084
+        tan: 0.00988769531
+        interpolationType: HSD_A_OP_SPL
+      - frame: 106
+        value: 0.0272216797
+        tan: 0.0221557617
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0.0883178711
+        tan: -0.00463867188
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0.0883178711
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -1.54406738
+        tan: -0.00561523438
+        interpolationType: HSD_A_OP_SPL
+      - frame: 30
+        value: -2.14672852
+        tan: 0.0299072266
+        interpolationType: HSD_A_OP_SPL
+      - frame: 36
+        value: -2.14672852
+        tan: -0.0364990234
+        interpolationType: HSD_A_OP_SPL
+      - frame: 44
+        value: -2.14672852
+        tan: 0.0299072266
+        interpolationType: HSD_A_OP_SPL
+      - frame: 50
+        value: -2.14672852
+        tan: -0.0364990234
+        interpolationType: HSD_A_OP_SPL
+      - frame: 58
+        value: -2.14672852
+        tan: 0.0299072266
+        interpolationType: HSD_A_OP_SPL
+      - frame: 64
+        value: -2.14672852
+        tan: -0.0364990234
+        interpolationType: HSD_A_OP_SPL
+      - frame: 72
+        value: -2.14672852
+        tan: 0.0299072266
+        interpolationType: HSD_A_OP_SPL
+      - frame: 78
+        value: -2.14672852
+        tan: -0.0364990234
+        interpolationType: HSD_A_OP_SPL
+      - frame: 86
+        value: -2.12597656
+        tan: 0.0360717773
+        interpolationType: HSD_A_OP_SPL
+      - frame: 92
+        value: -2.15185547
+        tan: -0.0297851563
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: -1.93212891
+        tan: 0.0888061523
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: -0.621582031
+        tan: 0.127929688
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: -0.621582031
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -0.186523438
+        tan: -0.0336914063
+        interpolationType: HSD_A_OP_SPL
+      - frame: 22
+        value: -0.345092773
+        tan: 0.000122070313
+        interpolationType: HSD_A_OP_SPL
+      - frame: 30
+        value: -0.23046875
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      - frame: 37
+        value: -0.354980469
+        tan: 6.10351563E-05
+        interpolationType: HSD_A_OP_SPL
+      - frame: 43
+        value: -0.213317871
+        tan: -6.10351563E-05
+        interpolationType: HSD_A_OP_SPL
+      - frame: 51
+        value: -0.352905273
+        tan: 0.000122070313
+        interpolationType: HSD_A_OP_SPL
+      - frame: 57
+        value: -0.213317871
+        tan: -6.10351563E-05
+        interpolationType: HSD_A_OP_SPL
+      - frame: 65
+        value: -0.352905273
+        tan: 0.000122070313
+        interpolationType: HSD_A_OP_SPL
+      - frame: 71
+        value: -0.213317871
+        tan: -6.10351563E-05
+        interpolationType: HSD_A_OP_SPL
+      - frame: 79
+        value: -0.352905273
+        tan: 0.000122070313
+        interpolationType: HSD_A_OP_SPL
+      - frame: 85
+        value: -0.21496582
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      - frame: 93
+        value: -0.351928711
+        tan: 0.00115966797
+        interpolationType: HSD_A_OP_SPL
+      - frame: 99
+        value: -0.198547363
+        tan: -0.0163574219
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: -0.390441895
+        tan: 0.0116577148
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: -0.134887695
+        tan: 0.00836181641
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: -0.134887695
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0.00317382813
+        interpolationType: HSD_A_OP_SPL
+      - frame: 9
+        value: 0.0609130859
+        tan: -0.00378417969
+        interpolationType: HSD_A_OP_SPL
+      - frame: 20
+        value: -0.0764160156
+        tan: -0.00256347656
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: -0.150756836
+        tan: -0.00213623047
+        interpolationType: HSD_A_OP_SPL
+      - frame: 106
+        value: -0.895996094
+        tan: -0.0669555664
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: -1.19616699
+        tan: -0.0603637695
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: -1.25842285
+        tan: -0.00378417969
+        interpolationType: HSD_A_OP_SPL
+      - frame: 116
+        value: -1.2623291
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      - frame: 120
+        value: -1.25842285
+        tan: 0.000244140625
+        interpolationType: HSD_A_OP_SPL
+      trackType: 5
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0.0260620117
+        interpolationType: HSD_A_OP_SPL
+      - frame: 20
+        value: 0.107543945
+        tan: 0.0009765625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: 0.108398438
+        tan: 0.000122070313
+        interpolationType: HSD_A_OP_SPL
+      - frame: 102
+        value: -0.201782227
+        tan: -0.0552978516
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: -0.614624023
+        tan: -0.0175170898
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: -0.621459961
+        tan: -0.0892944336
+        interpolationType: HSD_A_OP_SPL
+      - frame: 113
+        value: -1.06115723
+        tan: 0.00189208984
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: -0.602416992
+        tan: 0.0286254883
+        interpolationType: HSD_A_OP_SPL
+      trackType: 6
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: -0.0482177734
+        interpolationType: HSD_A_OP_SPL
+      - frame: 20
+        value: -1.44824219
+        tan: -0.00286865234
+        interpolationType: HSD_A_OP_SPL
+      - frame: 88
+        value: -1.31445313
+        tan: 0.00561523438
+        interpolationType: HSD_A_OP_SPL
+      - frame: 103
+        value: 0.540405273
+        tan: 0.286315918
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: 2.13037109
+        tan: 0.106506348
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 2.38513184
+        tan: 0.0996704102
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 2.5291748
+        tan: 0.0263671875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 116
+        value: 2.5435791
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      - frame: 120
+        value: 2.5291748
+        tan: -0.00109863281
+        interpolationType: HSD_A_OP_SPL
+      trackType: 7
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAZ
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0.407989502
+        tan: 6.10351563E-05
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: 0
+        tan: -0.00164794922
+        interpolationType: HSD_A_OP_SLP
+      - frame: 90
+        value: 0.407989502
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 97
+        value: 0.247497559
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 99
+        value: 0.267578125
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 112
+        value: 0.407989502
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 120
+        value: 0.407989502
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0.505065918
+        tan: 0.00207519531
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: 0
+        tan: -0.00396728516
+        interpolationType: HSD_A_OP_SLP
+      - frame: 90
+        value: 0.505065918
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 97
+        value: 0.118896484
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 99
+        value: -0.138183594
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 112
+        value: 0.505065918
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 120
+        value: 0.505065918
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0.215576172
+        tan: -0.000793457031
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: 0
+        tan: -0.000122070313
+        interpolationType: HSD_A_OP_SLP
+      - frame: 90
+        value: 0.215576172
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 97
+        value: 0.203430176
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 99
+        value: 0.120544434
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 112
+        value: 0.215576172
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 120
+        value: 0.215576172
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0.8515625
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0.8515625
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 5
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1.953125
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 1.953125
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 6
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -0.203125
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: -0.203125
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 7
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAZ
+      frameCount: 120
+  - tracks: []
+  - tracks:
+    - keys:
+      - frame: 0
+        value: -0.190551758
+        tan: 0.133117676
+        interpolationType: HSD_A_OP_SPL
+      - frame: 6
+        value: 0.665283203
+        tan: 0.118774414
+        interpolationType: HSD_A_OP_SPL
+      - frame: 27
+        value: 0
+        tan: 0.101257324
+        interpolationType: HSD_A_OP_SLP
+      - frame: 27
+        value: 1.26806641
+        tan: 0.00268554688
+        interpolationType: HSD_A_OP_SPL
+      - frame: 94
+        value: 1.52832031
+        tan: 0.00286865234
+        interpolationType: HSD_A_OP_SPL
+      - frame: 107
+        value: 1.40222168
+        tan: -0.0111083984
+        interpolationType: HSD_A_OP_SPL
+      - frame: 117
+        value: 1.49560547
+        tan: 0.0162353516
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: 0.00549316406
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: 1.51098633
+        tan: 0.0087890625
+        interpolationType: HSD_A_OP_SPL
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1.08331299
+        tan: 0.00396728516
+        interpolationType: HSD_A_OP_SPL
+      - frame: 7
+        value: 0.822509766
+        tan: -0.0744018555
+        interpolationType: HSD_A_OP_SPL
+      - frame: 17
+        value: 0.251342773
+        tan: -0.0222167969
+        interpolationType: HSD_A_OP_SPL
+      - frame: 31
+        value: 0.184936523
+        tan: -0.000183105469
+        interpolationType: HSD_A_OP_SPL
+      - frame: 99
+        value: 0.439819336
+        tan: 0
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0.339355469
+        tan: -0.0216064453
+        interpolationType: HSD_A_OP_SPL
+      - frame: 119
+        value: 0
+        tan: 0.0214233398
+        interpolationType: HSD_A_OP_SLP
+      - frame: 119
+        value: 0.959960938
+        tan: 0.0755004883
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: 0.061340332
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: 1.02130127
+        tan: 0.061340332
+        interpolationType: HSD_A_OP_SPL
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -0.24420166
+        tan: 0.118896484
+        interpolationType: HSD_A_OP_SPL
+      - frame: 6
+        value: 0.49029541
+        tan: 0.0915527344
+        interpolationType: HSD_A_OP_SPL
+      - frame: 21
+        value: 0
+        tan: 0.0707397461
+        interpolationType: HSD_A_OP_SLP
+      - frame: 21
+        value: 0.664550781
+        tan: -0.00140380859
+        interpolationType: HSD_A_OP_SPL
+      - frame: 95
+        value: 0.454162598
+        tan: -0.00628662109
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0.179321289
+        tan: -0.0244140625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 113
+        value: 0
+        tan: -0.0604248047
+        interpolationType: HSD_A_OP_SLP
+      - frame: 113
+        value: -0.116455078
+        tan: -0.0693359375
+        interpolationType: HSD_A_OP_SPL
+      - frame: 116
+        value: 0
+        tan: -0.00842285156
+        interpolationType: HSD_A_OP_SLP
+      - frame: 116
+        value: 0.00311279297
+        tan: 0.0836791992
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: 0.103759766
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: 0.338684082
+        tan: 0.0497436523
+        interpolationType: HSD_A_OP_SPL
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1.00146484
+        tan: 0
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 1.00146484
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 8
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_SCAX
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: -1.05700684
+        tan: -0.0621948242
+        interpolationType: HSD_A_OP_SPL
+      - frame: 10
+        value: -1.64025879
+        tan: -0.0267333984
+        interpolationType: HSD_A_OP_SPL
+      - frame: 22
+        value: 0
+        tan: -0.0154418945
+        interpolationType: HSD_A_OP_SLP
+      - frame: 22
+        value: -1.50097656
+        tan: 0.00860595703
+        interpolationType: HSD_A_OP_SPL
+      - frame: 98
+        value: -1.55371094
+        tan: -0.00305175781
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: -1.51452637
+        tan: 0.0163574219
+        interpolationType: HSD_A_OP_SPL
+      - frame: 116
+        value: 0
+        tan: -0.0107421875
+        interpolationType: HSD_A_OP_SLP
+      - frame: 116
+        value: -1.7557373
+        tan: -0.0842285156
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: -0.0626220703
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: -1.8548584
+        tan: 0.00280761719
+        interpolationType: HSD_A_OP_SPL
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: -1.22167969
+        tan: -0.0154418945
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: -1.31323242
+        tan: -0.001953125
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: -1.45751953
+        tan: -0.00720214844
+        interpolationType: HSD_A_OP_SPL
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: -0.00274658203
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: -0.00225830078
+        tan: 0.00213623047
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0.262390137
+        tan: 0.0131835938
+        interpolationType: HSD_A_OP_SPL
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0.000793457031
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0.000610351563
+        tan: -0.00860595703
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: -1.03991699
+        tan: -0.0520019531
+        interpolationType: HSD_A_OP_SPL
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: -0.0697631836
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: -0.0697631836
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1.046875
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 1.046875
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 1.18676758
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 1.18676758
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: -0.015625
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: -0.015625
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1.14489746
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 1.14489746
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 1.18676758
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 1.18676758
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0.0348815918
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0.0348815918
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1.22869873
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 1.22869873
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 1.18676758
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 1.18676758
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0.0859375
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0.0859375
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1.32641602
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 1.32641602
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 1.18676758
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 1.18676758
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0.0697937012
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0.0697937012
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0.942474365
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0.942474365
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -0.0348510742
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: -0.0348510742
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1.57073975
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 1.57073975
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: -1.22167969
+        tan: -0.0151977539
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: -1.31140137
+        tan: -0.00164794922
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: -1.45751953
+        tan: -0.00915527344
+        interpolationType: HSD_A_OP_SPL
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0.540649414
+        tan: 0.0240478516
+        interpolationType: HSD_A_OP_SPL
+      - frame: 24
+        value: 0.818969727
+        tan: 0.00537109375
+        interpolationType: HSD_A_OP_SPL
+      - frame: 31
+        value: 0.648681641
+        tan: -0.000305175781
+        interpolationType: HSD_A_OP_SPL
+      - frame: 38
+        value: 0.814208984
+        tan: -0.000305175781
+        interpolationType: HSD_A_OP_SPL
+      - frame: 44
+        value: 0.643920898
+        tan: 0.00189208984
+        interpolationType: HSD_A_OP_SPL
+      - frame: 52
+        value: 0.818969727
+        tan: 0.00329589844
+        interpolationType: HSD_A_OP_SPL
+      - frame: 58
+        value: 0.625
+        tan: 0.00134277344
+        interpolationType: HSD_A_OP_SPL
+      - frame: 66
+        value: 0.837890625
+        tan: -0.00531005859
+        interpolationType: HSD_A_OP_SPL
+      - frame: 72
+        value: 0.629760742
+        tan: 0.00140380859
+        interpolationType: HSD_A_OP_SPL
+      - frame: 79
+        value: 0.856811523
+        tan: 0.00463867188
+        interpolationType: HSD_A_OP_SPL
+      - frame: 86
+        value: 0.634521484
+        tan: -0.00305175781
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: 0.779541016
+        tan: 0.0428466797
+        interpolationType: HSD_A_OP_SPL
+      - frame: 93
+        value: 0.934448242
+        tan: 0.0595092773
+        interpolationType: HSD_A_OP_SPL
+      - frame: 96
+        value: 1.13659668
+        tan: 0.079284668
+        interpolationType: HSD_A_OP_SPL
+      - frame: 99
+        value: 1.41040039
+        tan: -0.000671386719
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: 0.677734375
+        tan: -0.132080078
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0.168823242
+        tan: -0.338012695
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: -0.180664063
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: -0.297241211
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 120
+        value: -0.297241211
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0.0549316406
+        tan: 0.0180053711
+        interpolationType: HSD_A_OP_SPL
+      - frame: 26
+        value: 0.649902344
+        tan: 0.00555419922
+        interpolationType: HSD_A_OP_SPL
+      - frame: 34
+        value: 0.539916992
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      - frame: 40
+        value: 0.640258789
+        tan: 0.00805664063
+        interpolationType: HSD_A_OP_SPL
+      - frame: 46
+        value: 0.543212891
+        tan: -0.0155639648
+        interpolationType: HSD_A_OP_SPL
+      - frame: 47
+        value: 0.531005859
+        tan: -0.00183105469
+        interpolationType: HSD_A_OP_SPL
+      - frame: 55
+        value: 0.639282227
+        tan: 6.10351563E-05
+        interpolationType: HSD_A_OP_SPL
+      - frame: 61
+        value: 0.532104492
+        tan: 0.000671386719
+        interpolationType: HSD_A_OP_SPL
+      - frame: 69
+        value: 0.649414063
+        tan: 0.000915527344
+        interpolationType: HSD_A_OP_SPL
+      - frame: 76
+        value: 0.546630859
+        tan: 0.00128173828
+        interpolationType: HSD_A_OP_SPL
+      - frame: 83
+        value: 0.667602539
+        tan: -0.00573730469
+        interpolationType: HSD_A_OP_SPL
+      - frame: 89
+        value: 0.576538086
+        tan: 0.00311279297
+        interpolationType: HSD_A_OP_SPL
+      - frame: 93
+        value: 0.698974609
+        tan: 0.0297241211
+        interpolationType: HSD_A_OP_SPL
+      - frame: 96
+        value: 0.784667969
+        tan: 0.0571289063
+        interpolationType: HSD_A_OP_SPL
+      - frame: 99
+        value: 1.04174805
+        tan: 0.000427246094
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: 0.444458008
+        tan: -0.0943603516
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0.0180664063
+        tan: -0.323913574
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: -0.0352783203
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: -0.534912109
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 120
+        value: -0.534912109
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0.210144043
+        tan: 0.0048828125
+        interpolationType: HSD_A_OP_SPL
+      - frame: 22
+        value: 0.15814209
+        tan: -0.00122070313
+        interpolationType: HSD_A_OP_SPL
+      - frame: 25
+        value: 0.178710938
+        tan: -0.00909423828
+        interpolationType: HSD_A_OP_SPL
+      - frame: 31
+        value: 0.0758361816
+        tan: 0.000366210938
+        interpolationType: HSD_A_OP_SPL
+      - frame: 38
+        value: 0.18359375
+        tan: 0.000549316406
+        interpolationType: HSD_A_OP_SPL
+      - frame: 45
+        value: 0.0835876465
+        tan: 0.000427246094
+        interpolationType: HSD_A_OP_SPL
+      - frame: 52
+        value: 0.190002441
+        tan: -0.000549316406
+        interpolationType: HSD_A_OP_SPL
+      - frame: 58
+        value: 0.0661621094
+        tan: 6.10351563E-05
+        interpolationType: HSD_A_OP_SPL
+      - frame: 66
+        value: 0.19140625
+        tan: -0.00231933594
+        interpolationType: HSD_A_OP_SPL
+      - frame: 72
+        value: 0.0511779785
+        tan: 0.000244140625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 79
+        value: 0.194946289
+        tan: -0.000610351563
+        interpolationType: HSD_A_OP_SPL
+      - frame: 85
+        value: 0.0430297852
+        tan: -0.0103149414
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: 0.148101807
+        tan: 0.0343017578
+        interpolationType: HSD_A_OP_SPL
+      - frame: 93
+        value: 0.194549561
+        tan: 0.0442504883
+        interpolationType: HSD_A_OP_SPL
+      - frame: 96
+        value: 0.413818359
+        tan: 0.0686645508
+        interpolationType: HSD_A_OP_SPL
+      - frame: 99
+        value: 0.606872559
+        tan: 0.00207519531
+        interpolationType: HSD_A_OP_SPL
+      - frame: 107
+        value: 0.193145752
+        tan: 0.00231933594
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0.228820801
+        tan: 0.0328369141
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: 0.121582031
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: 0.51751709
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 120
+        value: 0.51751709
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 5
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 2.3125
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 2.3125
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 6
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -0.24786377
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: -0.24786377
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 7
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAZ
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: -0.433532715
+        tan: -0.0154418945
+        interpolationType: HSD_A_OP_SPL
+      - frame: 9
+        value: -0.46887207
+        tan: 0.000732421875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 27
+        value: -0.46685791
+        tan: -0.00128173828
+        interpolationType: HSD_A_OP_SPL
+      - frame: 31
+        value: -0.512207031
+        tan: 0.000610351563
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: -0.433532715
+        tan: 0.000793457031
+        interpolationType: HSD_A_OP_SPL
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0.272644043
+        tan: -0.0179443359
+        interpolationType: HSD_A_OP_SPL
+      - frame: 22
+        value: 0.192169189
+        tan: 0.000793457031
+        interpolationType: HSD_A_OP_SPL
+      - frame: 27
+        value: 0.198486328
+        tan: 0.000183105469
+        interpolationType: HSD_A_OP_SPL
+      - frame: 31
+        value: 0.285675049
+        tan: -6.10351563E-05
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: 0.192657471
+        tan: -0.000122070313
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0.272644043
+        tan: 0.00201416016
+        interpolationType: HSD_A_OP_SPL
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -0.408874512
+        tan: -0.012512207
+        interpolationType: HSD_A_OP_SPL
+      - frame: 22
+        value: -0.454467773
+        tan: -0.00219726563
+        interpolationType: HSD_A_OP_SPL
+      - frame: 27
+        value: -0.469299316
+        tan: -0.00610351563
+        interpolationType: HSD_A_OP_SPL
+      - frame: 31
+        value: -0.575805664
+        tan: -0.000122070313
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: -0.43536377
+        tan: 0.00219726563
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: -0.408874512
+        tan: 0.000671386719
+        interpolationType: HSD_A_OP_SPL
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      - frame: 22
+        value: 0
+        tan: -0.00323486328
+        interpolationType: HSD_A_OP_SPL
+      - frame: 30
+        value: -0.0972290039
+        tan: -0.0255126953
+        interpolationType: HSD_A_OP_SPL
+      - frame: 38
+        value: -0.408630371
+        tan: 0.00115966797
+        interpolationType: HSD_A_OP_SPL
+      - frame: 45
+        value: -0.0795898438
+        tan: 0.00402832031
+        interpolationType: HSD_A_OP_SPL
+      - frame: 52
+        value: -0.351989746
+        tan: 0.00964355469
+        interpolationType: HSD_A_OP_SPL
+      - frame: 59
+        value: 0.0559082031
+        tan: 0.00842285156
+        interpolationType: HSD_A_OP_SPL
+      - frame: 66
+        value: -0.233581543
+        tan: 0.0140380859
+        interpolationType: HSD_A_OP_SPL
+      - frame: 72
+        value: 0.238769531
+        tan: 0.00628662109
+        interpolationType: HSD_A_OP_SPL
+      - frame: 79
+        value: -0.151184082
+        tan: 0.00982666016
+        interpolationType: HSD_A_OP_SPL
+      - frame: 85
+        value: 0.3671875
+        tan: 0.0137329102
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: 0
+        tan: 0.00427246094
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0.517211914
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 5
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1.02142334
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      - frame: 22
+        value: 1.02142334
+        tan: -0.00329589844
+        interpolationType: HSD_A_OP_SPL
+      - frame: 30
+        value: 0.920715332
+        tan: 0.0107421875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 38
+        value: 1.19415283
+        tan: 0.00341796875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 45
+        value: 0.97253418
+        tan: -0.00390625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 52
+        value: 1.13879395
+        tan: -0.00982666016
+        interpolationType: HSD_A_OP_SPL
+      - frame: 59
+        value: 0.834472656
+        tan: 0.001953125
+        interpolationType: HSD_A_OP_SPL
+      - frame: 66
+        value: 1.16668701
+        tan: -0.00317382813
+        interpolationType: HSD_A_OP_SPL
+      - frame: 72
+        value: 0.792480469
+        tan: -0.00604248047
+        interpolationType: HSD_A_OP_SPL
+      - frame: 79
+        value: 1.0880127
+        tan: -0.00469970703
+        interpolationType: HSD_A_OP_SPL
+      - frame: 85
+        value: 0.731140137
+        tan: -0.00604248047
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: 1.02142334
+        tan: 0.000854492188
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0.763122559
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 6
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0.177734375
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      - frame: 22
+        value: 0.177734375
+        tan: 0.00250244141
+        interpolationType: HSD_A_OP_SPL
+      - frame: 30
+        value: 0.252990723
+        tan: 0.00958251953
+        interpolationType: HSD_A_OP_SPL
+      - frame: 38
+        value: 0.331359863
+        tan: -0.00128173828
+        interpolationType: HSD_A_OP_SPL
+      - frame: 45
+        value: 0.233398438
+        tan: -0.000732421875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 52
+        value: 0.321044922
+        tan: -0.00207519531
+        interpolationType: HSD_A_OP_SPL
+      - frame: 59
+        value: 0.203613281
+        tan: -0.0048828125
+        interpolationType: HSD_A_OP_SPL
+      - frame: 66
+        value: 0.252380371
+        tan: -0.00579833984
+        interpolationType: HSD_A_OP_SPL
+      - frame: 72
+        value: 0.128112793
+        tan: -0.00103759766
+        interpolationType: HSD_A_OP_SPL
+      - frame: 79
+        value: 0.238220215
+        tan: -0.00372314453
+        interpolationType: HSD_A_OP_SPL
+      - frame: 85
+        value: 0.0791625977
+        tan: -0.00549316406
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: 0.177734375
+        tan: -0.00427246094
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: -0.0707397461
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 7
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAZ
+      frameCount: 120
+  - tracks: []
+  - tracks: []
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 108
+        value: 0.0352172852
+        tan: 0.000305175781
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0
+        tan: 0.0763549805
+        interpolationType: HSD_A_OP_SLP
+      - frame: 111
+        value: 0.237976074
+        tan: 0.0462646484
+        interpolationType: HSD_A_OP_SPL
+      - frame: 115
+        value: 0
+        tan: -0.0087890625
+        interpolationType: HSD_A_OP_SLP
+      - frame: 115
+        value: 0.135345459
+        tan: -0.0122070313
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: 0.0276489258
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: 0.349060059
+        tan: 0.0299682617
+        interpolationType: HSD_A_OP_SPL
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0.109375
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0.109375
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+  - tracks: []
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -0.857666016
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: -0.857666016
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 5
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1.953125
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 1.953125
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 6
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -0.203125
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: -0.203125
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 7
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAZ
+      frameCount: 120
+  - tracks: []
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 3.47277832
+        tan: 0.0677490234
+        interpolationType: HSD_A_OP_SPL
+      - frame: 11
+        value: 3.97485352
+        tan: 0.0462036133
+        interpolationType: HSD_A_OP_SPL
+      - frame: 15
+        value: 4.03942871
+        tan: 0.0187988281
+        interpolationType: HSD_A_OP_SPL
+      - frame: 21
+        value: 0
+        tan: 0.00469970703
+        interpolationType: HSD_A_OP_SLP
+      - frame: 21
+        value: 3.95947266
+        tan: -0.0431518555
+        interpolationType: HSD_A_OP_SPL
+      - frame: 23
+        value: 0
+        tan: 0.158935547
+        interpolationType: HSD_A_OP_SLP
+      - frame: 23
+        value: 4.25866699
+        tan: 0.140258789
+        interpolationType: HSD_A_OP_SPL
+      - frame: 27
+        value: 0
+        tan: 0.00665283203
+        interpolationType: HSD_A_OP_SLP
+      - frame: 27
+        value: 4.07263184
+        tan: -0.106994629
+        interpolationType: HSD_A_OP_SPL
+      - frame: 29
+        value: 0
+        tan: -0.198913574
+        interpolationType: HSD_A_OP_SLP
+      - frame: 29
+        value: 3.70996094
+        tan: -0.163696289
+        interpolationType: HSD_A_OP_SPL
+      - frame: 30
+        value: 0
+        tan: -0.10357666
+        interpolationType: HSD_A_OP_SLP
+      - frame: 30
+        value: 3.60632324
+        tan: -0.10357666
+        interpolationType: HSD_A_OP_SPL
+      - frame: 32
+        value: 0
+        tan: -0.221069336
+        interpolationType: HSD_A_OP_SLP
+      - frame: 32
+        value: 3.16210938
+        tan: -0.223022461
+        interpolationType: HSD_A_OP_SPL
+      - frame: 33
+        value: 0
+        tan: -0.043762207
+        interpolationType: HSD_A_OP_SLP
+      - frame: 33
+        value: 3.1184082
+        tan: -0.043762207
+        interpolationType: HSD_A_OP_SPL
+      - frame: 34
+        value: 0
+        tan: 0.452148438
+        interpolationType: HSD_A_OP_SLP
+      - frame: 34
+        value: 3.57055664
+        tan: 0.452148438
+        interpolationType: HSD_A_OP_SPL
+      - frame: 35
+        value: 0
+        tan: 0.785400391
+        interpolationType: HSD_A_OP_SLP
+      - frame: 35
+        value: 4.35595703
+        tan: 0.785400391
+        interpolationType: HSD_A_OP_SPL
+      - frame: 36
+        value: 0
+        tan: 0.23046875
+        interpolationType: HSD_A_OP_SLP
+      - frame: 36
+        value: 4.58654785
+        tan: 0.23046875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 37
+        value: 0
+        tan: -0.345397949
+        interpolationType: HSD_A_OP_SLP
+      - frame: 37
+        value: 4.24108887
+        tan: -0.345397949
+        interpolationType: HSD_A_OP_SPL
+      - frame: 38
+        value: 0
+        tan: -0.0861206055
+        interpolationType: HSD_A_OP_SLP
+      - frame: 38
+        value: 4.15490723
+        tan: -0.0861206055
+        interpolationType: HSD_A_OP_SPL
+      - frame: 39
+        value: 0
+        tan: 0.193481445
+        interpolationType: HSD_A_OP_SLP
+      - frame: 39
+        value: 4.34838867
+        tan: 0.193481445
+        interpolationType: HSD_A_OP_SPL
+      - frame: 41
+        value: 0
+        tan: -0.000366210938
+        interpolationType: HSD_A_OP_SLP
+      - frame: 41
+        value: 4.31115723
+        tan: -0.0368041992
+        interpolationType: HSD_A_OP_SPL
+      - frame: 44
+        value: 0
+        tan: -0.128662109
+        interpolationType: HSD_A_OP_SLP
+      - frame: 44
+        value: 3.83154297
+        tan: -0.175476074
+        interpolationType: HSD_A_OP_SPL
+      - frame: 46
+        value: 0
+        tan: -0.316040039
+        interpolationType: HSD_A_OP_SLP
+      - frame: 46
+        value: 3.13757324
+        tan: -0.377807617
+        interpolationType: HSD_A_OP_SPL
+      - frame: 47
+        value: 0
+        tan: -0.086730957
+        interpolationType: HSD_A_OP_SLP
+      - frame: 47
+        value: 3.05090332
+        tan: -0.086730957
+        interpolationType: HSD_A_OP_SPL
+      - frame: 48
+        value: 0
+        tan: 0.691467285
+        interpolationType: HSD_A_OP_SLP
+      - frame: 48
+        value: 3.74243164
+        tan: 0.691467285
+        interpolationType: HSD_A_OP_SPL
+      - frame: 49
+        value: 0
+        tan: 0.817871094
+        interpolationType: HSD_A_OP_SLP
+      - frame: 49
+        value: 4.56030273
+        tan: 0.817871094
+        interpolationType: HSD_A_OP_SPL
+      - frame: 50
+        value: 0
+        tan: 0.258972168
+        interpolationType: HSD_A_OP_SLP
+      - frame: 50
+        value: 4.81933594
+        tan: 0.258972168
+        interpolationType: HSD_A_OP_SPL
+      - frame: 52
+        value: 0
+        tan: 0.125549316
+        interpolationType: HSD_A_OP_SLP
+      - frame: 52
+        value: 5.10754395
+        tan: 0.162658691
+        interpolationType: HSD_A_OP_SPL
+      - frame: 53
+        value: 0
+        tan: -0.417175293
+        interpolationType: HSD_A_OP_SLP
+      - frame: 53
+        value: 4.69030762
+        tan: -0.417175293
+        interpolationType: HSD_A_OP_SPL
+      - frame: 54
+        value: 0
+        tan: -0.179626465
+        interpolationType: HSD_A_OP_SLP
+      - frame: 54
+        value: 4.51074219
+        tan: -0.179626465
+        interpolationType: HSD_A_OP_SPL
+      - frame: 58
+        value: 0
+        tan: -0.0606079102
+        interpolationType: HSD_A_OP_SLP
+      - frame: 58
+        value: 4.06982422
+        tan: -0.168457031
+        interpolationType: HSD_A_OP_SPL
+      - frame: 59
+        value: 0
+        tan: -0.390991211
+        interpolationType: HSD_A_OP_SLP
+      - frame: 59
+        value: 3.67883301
+        tan: -0.390991211
+        interpolationType: HSD_A_OP_SPL
+      - frame: 60
+        value: 0
+        tan: -0.543701172
+        interpolationType: HSD_A_OP_SLP
+      - frame: 60
+        value: 3.13513184
+        tan: -0.543701172
+        interpolationType: HSD_A_OP_SPL
+      - frame: 61
+        value: 0
+        tan: -0.12286377
+        interpolationType: HSD_A_OP_SLP
+      - frame: 61
+        value: 3.01220703
+        tan: -0.12286377
+        interpolationType: HSD_A_OP_SPL
+      - frame: 63
+        value: 0
+        tan: 0.788208008
+        interpolationType: HSD_A_OP_SLP
+      - frame: 63
+        value: 4.58105469
+        tan: 0.780578613
+        interpolationType: HSD_A_OP_SPL
+      - frame: 64
+        value: 0
+        tan: 0.236022949
+        interpolationType: HSD_A_OP_SLP
+      - frame: 64
+        value: 4.81713867
+        tan: 0.236022949
+        interpolationType: HSD_A_OP_SPL
+      - frame: 66
+        value: 0
+        tan: 0.10144043
+        interpolationType: HSD_A_OP_SLP
+      - frame: 66
+        value: 4.95166016
+        tan: 0.0330810547
+        interpolationType: HSD_A_OP_SPL
+      - frame: 67
+        value: 0
+        tan: -0.371459961
+        interpolationType: HSD_A_OP_SLP
+      - frame: 67
+        value: 4.5802002
+        tan: -0.371459961
+        interpolationType: HSD_A_OP_SPL
+      - frame: 68
+        value: 0
+        tan: -0.13873291
+        interpolationType: HSD_A_OP_SLP
+      - frame: 68
+        value: 4.44152832
+        tan: -0.13873291
+        interpolationType: HSD_A_OP_SPL
+      - frame: 70
+        value: 0
+        tan: -0.0586547852
+        interpolationType: HSD_A_OP_SLP
+      - frame: 70
+        value: 4.26721191
+        tan: -0.115478516
+        interpolationType: HSD_A_OP_SPL
+      - frame: 72
+        value: 0
+        tan: -0.14855957
+        interpolationType: HSD_A_OP_SLP
+      - frame: 72
+        value: 3.94995117
+        tan: -0.168640137
+        interpolationType: HSD_A_OP_SPL
+      - frame: 74
+        value: 0
+        tan: -0.35748291
+        interpolationType: HSD_A_OP_SLP
+      - frame: 74
+        value: 3.17114258
+        tan: -0.421203613
+        interpolationType: HSD_A_OP_SPL
+      - frame: 75
+        value: 0
+        tan: -0.086730957
+        interpolationType: HSD_A_OP_SLP
+      - frame: 75
+        value: 3.08447266
+        tan: -0.086730957
+        interpolationType: HSD_A_OP_SPL
+      - frame: 76
+        value: 0
+        tan: 0.570922852
+        interpolationType: HSD_A_OP_SLP
+      - frame: 76
+        value: 3.65539551
+        tan: 0.570922852
+        interpolationType: HSD_A_OP_SPL
+      - frame: 77
+        value: 0
+        tan: 0.751831055
+        interpolationType: HSD_A_OP_SLP
+      - frame: 77
+        value: 4.40722656
+        tan: 0.751831055
+        interpolationType: HSD_A_OP_SPL
+      - frame: 78
+        value: 0
+        tan: 0.27911377
+        interpolationType: HSD_A_OP_SLP
+      - frame: 78
+        value: 4.68640137
+        tan: 0.27911377
+        interpolationType: HSD_A_OP_SPL
+      - frame: 79
+        value: 0
+        tan: 0.0668945313
+        interpolationType: HSD_A_OP_SLP
+      - frame: 79
+        value: 4.7532959
+        tan: 0.0668945313
+        interpolationType: HSD_A_OP_SPL
+      - frame: 80
+        value: 0
+        tan: -0.013671875
+        interpolationType: HSD_A_OP_SLP
+      - frame: 80
+        value: 4.73962402
+        tan: -0.013671875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 81
+        value: 0
+        tan: -0.259521484
+        interpolationType: HSD_A_OP_SLP
+      - frame: 81
+        value: 4.48010254
+        tan: -0.259521484
+        interpolationType: HSD_A_OP_SPL
+      - frame: 83
+        value: 0
+        tan: -0.127563477
+        interpolationType: HSD_A_OP_SLP
+      - frame: 83
+        value: 4.28198242
+        tan: -0.0704345703
+        interpolationType: HSD_A_OP_SPL
+      - frame: 85
+        value: 0
+        tan: -0.17767334
+        interpolationType: HSD_A_OP_SLP
+      - frame: 85
+        value: 3.89343262
+        tan: -0.210876465
+        interpolationType: HSD_A_OP_SPL
+      - frame: 86
+        value: 0
+        tan: -0.122070313
+        interpolationType: HSD_A_OP_SLP
+      - frame: 86
+        value: 3.77124023
+        tan: -0.122070313
+        interpolationType: HSD_A_OP_SPL
+      - frame: 88
+        value: 0
+        tan: -0.296936035
+        interpolationType: HSD_A_OP_SLP
+      - frame: 88
+        value: 3.16772461
+        tan: -0.306518555
+        interpolationType: HSD_A_OP_SPL
+      - frame: 89
+        value: 0
+        tan: -0.0849609375
+        interpolationType: HSD_A_OP_SLP
+      - frame: 89
+        value: 3.08276367
+        tan: -0.0849609375
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: 0
+        tan: 0.279663086
+        interpolationType: HSD_A_OP_SLP
+      - frame: 90
+        value: 3.36242676
+        tan: 0.279663086
+        interpolationType: HSD_A_OP_SPL
+      - frame: 91
+        value: 0
+        tan: 0.58013916
+        interpolationType: HSD_A_OP_SLP
+      - frame: 91
+        value: 3.94262695
+        tan: 0.58013916
+        interpolationType: HSD_A_OP_SPL
+      - frame: 92
+        value: 0
+        tan: 0.440002441
+        interpolationType: HSD_A_OP_SLP
+      - frame: 92
+        value: 4.38269043
+        tan: 0.440002441
+        interpolationType: HSD_A_OP_SPL
+      - frame: 93
+        value: 0
+        tan: 0.204162598
+        interpolationType: HSD_A_OP_SLP
+      - frame: 93
+        value: 4.58679199
+        tan: 0.204162598
+        interpolationType: HSD_A_OP_SPL
+      - frame: 94
+        value: 0
+        tan: 0.0310668945
+        interpolationType: HSD_A_OP_SLP
+      - frame: 94
+        value: 4.61791992
+        tan: 0.0310668945
+        interpolationType: HSD_A_OP_SPL
+      - frame: 96
+        value: 0
+        tan: -0.20111084
+        interpolationType: HSD_A_OP_SLP
+      - frame: 96
+        value: 4.23388672
+        tan: -0.182861328
+        interpolationType: HSD_A_OP_SPL
+      - frame: 97
+        value: 0
+        tan: -0.101745605
+        interpolationType: HSD_A_OP_SLP
+      - frame: 97
+        value: 4.13208008
+        tan: -0.101745605
+        interpolationType: HSD_A_OP_SPL
+      - frame: 102
+        value: 0
+        tan: 0.0115356445
+        interpolationType: HSD_A_OP_SLP
+      - frame: 102
+        value: 4.20288086
+        tan: -0.020690918
+        interpolationType: HSD_A_OP_SPL
+      - frame: 106
+        value: 0
+        tan: -0.069152832
+        interpolationType: HSD_A_OP_SLP
+      - frame: 106
+        value: 3.80566406
+        tan: -0.0873413086
+        interpolationType: HSD_A_OP_SPL
+      - frame: 107
+        value: 0
+        tan: -0.00457763672
+        interpolationType: HSD_A_OP_SLP
+      - frame: 107
+        value: 3.80102539
+        tan: -0.00457763672
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: 0
+        tan: -0.109619141
+        interpolationType: HSD_A_OP_SLP
+      - frame: 108
+        value: 3.69140625
+        tan: -0.109619141
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0
+        tan: -0.383789063
+        interpolationType: HSD_A_OP_SLP
+      - frame: 109
+        value: 3.30749512
+        tan: -0.383789063
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0
+        tan: -0.515808105
+        interpolationType: HSD_A_OP_SLP
+      - frame: 111
+        value: 2.26953125
+        tan: -0.522155762
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: -0.277587891
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: 1.99182129
+        tan: -0.277587891
+        interpolationType: HSD_A_OP_SPL
+      - frame: 118
+        value: 0
+        tan: 0.0009765625
+        interpolationType: HSD_A_OP_SLP
+      - frame: 118
+        value: 1.99841309
+        tan: 0.00750732422
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: 0.0938110352
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: 2.15600586
+        tan: 0.0635986328
+        interpolationType: HSD_A_OP_SPL
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -2.3215332
+        tan: -0.0147094727
+        interpolationType: HSD_A_OP_SPL
+      - frame: 9
+        value: -2.57104492
+        tan: 0.00390625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 14
+        value: 0
+        tan: 0.0208129883
+        interpolationType: HSD_A_OP_SLP
+      - frame: 14
+        value: -2.44335938
+        tan: 0.00616455078
+        interpolationType: HSD_A_OP_SPL
+      - frame: 21
+        value: -2.58374023
+        tan: -0.0513916016
+        interpolationType: HSD_A_OP_SPL
+      - frame: 23
+        value: 0
+        tan: 0.0337524414
+        interpolationType: HSD_A_OP_SLP
+      - frame: 23
+        value: -2.55688477
+        tan: -0.0068359375
+        interpolationType: HSD_A_OP_SPL
+      - frame: 24
+        value: 0
+        tan: -0.114379883
+        interpolationType: HSD_A_OP_SLP
+      - frame: 24
+        value: -2.67114258
+        tan: -0.114379883
+        interpolationType: HSD_A_OP_SPL
+      - frame: 26
+        value: 0
+        tan: -0.197509766
+        interpolationType: HSD_A_OP_SLP
+      - frame: 26
+        value: -3.07714844
+        tan: -0.208435059
+        interpolationType: HSD_A_OP_SPL
+      - frame: 28
+        value: 0
+        tan: -0.294372559
+        interpolationType: HSD_A_OP_SLP
+      - frame: 28
+        value: -3.69897461
+        tan: -0.327392578
+        interpolationType: HSD_A_OP_SPL
+      - frame: 29
+        value: 0
+        tan: -0.0715942383
+        interpolationType: HSD_A_OP_SLP
+      - frame: 29
+        value: -3.77075195
+        tan: -0.0715942383
+        interpolationType: HSD_A_OP_SPL
+      - frame: 30
+        value: 0
+        tan: 0.196716309
+        interpolationType: HSD_A_OP_SLP
+      - frame: 30
+        value: -3.57397461
+        tan: 0.196716309
+        interpolationType: HSD_A_OP_SPL
+      - frame: 31
+        value: 0
+        tan: 0.288696289
+        interpolationType: HSD_A_OP_SLP
+      - frame: 31
+        value: -3.28515625
+        tan: 0.288696289
+        interpolationType: HSD_A_OP_SPL
+      - frame: 33
+        value: 0
+        tan: 0.392272949
+        interpolationType: HSD_A_OP_SLP
+      - frame: 33
+        value: -2.51147461
+        tan: 0.381408691
+        interpolationType: HSD_A_OP_SPL
+      - frame: 34
+        value: 0
+        tan: 0.286193848
+        interpolationType: HSD_A_OP_SLP
+      - frame: 34
+        value: -2.2253418
+        tan: 0.286193848
+        interpolationType: HSD_A_OP_SPL
+      - frame: 37
+        value: 0
+        tan: -0.0139160156
+        interpolationType: HSD_A_OP_SLP
+      - frame: 37
+        value: -2.32666016
+        tan: -0.0198974609
+        interpolationType: HSD_A_OP_SPL
+      - frame: 39
+        value: 0
+        tan: -0.189208984
+        interpolationType: HSD_A_OP_SLP
+      - frame: 39
+        value: -2.66381836
+        tan: -0.147949219
+        interpolationType: HSD_A_OP_SPL
+      - frame: 41
+        value: 0
+        tan: -0.239013672
+        interpolationType: HSD_A_OP_SLP
+      - frame: 41
+        value: -3.12988281
+        tan: -0.226989746
+        interpolationType: HSD_A_OP_SPL
+      - frame: 42
+        value: 0
+        tan: -0.430725098
+        interpolationType: HSD_A_OP_SLP
+      - frame: 42
+        value: -3.56079102
+        tan: -0.430725098
+        interpolationType: HSD_A_OP_SPL
+      - frame: 43
+        value: 0
+        tan: -0.251525879
+        interpolationType: HSD_A_OP_SLP
+      - frame: 43
+        value: -3.81225586
+        tan: -0.251525879
+        interpolationType: HSD_A_OP_SPL
+      - frame: 44
+        value: 0
+        tan: 0.0701293945
+        interpolationType: HSD_A_OP_SLP
+      - frame: 44
+        value: -3.7421875
+        tan: 0.0701293945
+        interpolationType: HSD_A_OP_SPL
+      - frame: 45
+        value: 0
+        tan: 0.224243164
+        interpolationType: HSD_A_OP_SLP
+      - frame: 45
+        value: -3.51782227
+        tan: 0.224243164
+        interpolationType: HSD_A_OP_SPL
+      - frame: 46
+        value: 0
+        tan: 0.519348145
+        interpolationType: HSD_A_OP_SLP
+      - frame: 46
+        value: -2.99829102
+        tan: 0.519348145
+        interpolationType: HSD_A_OP_SPL
+      - frame: 47
+        value: 0
+        tan: 0.602539063
+        interpolationType: HSD_A_OP_SLP
+      - frame: 47
+        value: -2.39575195
+        tan: 0.602539063
+        interpolationType: HSD_A_OP_SPL
+      - frame: 48
+        value: 0
+        tan: 0.336669922
+        interpolationType: HSD_A_OP_SLP
+      - frame: 48
+        value: -2.05908203
+        tan: 0.336669922
+        interpolationType: HSD_A_OP_SPL
+      - frame: 50
+        value: 0
+        tan: -0.180969238
+        interpolationType: HSD_A_OP_SLP
+      - frame: 50
+        value: -2.44604492
+        tan: -0.205932617
+        interpolationType: HSD_A_OP_SPL
+      - frame: 51
+        value: 0
+        tan: -0.0362548828
+        interpolationType: HSD_A_OP_SLP
+      - frame: 51
+        value: -2.48242188
+        tan: -0.0362548828
+        interpolationType: HSD_A_OP_SPL
+      - frame: 52
+        value: 0
+        tan: 0.174499512
+        interpolationType: HSD_A_OP_SLP
+      - frame: 52
+        value: -2.30786133
+        tan: 0.174499512
+        interpolationType: HSD_A_OP_SPL
+      - frame: 53
+        value: 0
+        tan: -0.0111694336
+        interpolationType: HSD_A_OP_SLP
+      - frame: 53
+        value: -2.3190918
+        tan: -0.0111694336
+        interpolationType: HSD_A_OP_SPL
+      - frame: 55
+        value: 0
+        tan: -0.390991211
+        interpolationType: HSD_A_OP_SLP
+      - frame: 55
+        value: -3.07543945
+        tan: -0.36529541
+        interpolationType: HSD_A_OP_SPL
+      - frame: 56
+        value: 0
+        tan: -0.456726074
+        interpolationType: HSD_A_OP_SLP
+      - frame: 56
+        value: -3.53222656
+        tan: -0.456726074
+        interpolationType: HSD_A_OP_SPL
+      - frame: 57
+        value: 0
+        tan: -0.231079102
+        interpolationType: HSD_A_OP_SLP
+      - frame: 57
+        value: -3.76318359
+        tan: -0.231079102
+        interpolationType: HSD_A_OP_SPL
+      - frame: 58
+        value: 0
+        tan: 0.0488891602
+        interpolationType: HSD_A_OP_SLP
+      - frame: 58
+        value: -3.71435547
+        tan: 0.0488891602
+        interpolationType: HSD_A_OP_SPL
+      - frame: 59
+        value: 0
+        tan: 0.150634766
+        interpolationType: HSD_A_OP_SLP
+      - frame: 59
+        value: -3.5637207
+        tan: 0.150634766
+        interpolationType: HSD_A_OP_SPL
+      - frame: 60
+        value: 0
+        tan: 0.557739258
+        interpolationType: HSD_A_OP_SLP
+      - frame: 60
+        value: -3.00585938
+        tan: 0.557739258
+        interpolationType: HSD_A_OP_SPL
+      - frame: 61
+        value: 0
+        tan: 0.652404785
+        interpolationType: HSD_A_OP_SLP
+      - frame: 61
+        value: -2.35351563
+        tan: 0.652404785
+        interpolationType: HSD_A_OP_SPL
+      - frame: 62
+        value: 0
+        tan: 0.306640625
+        interpolationType: HSD_A_OP_SLP
+      - frame: 62
+        value: -2.046875
+        tan: 0.306640625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 64
+        value: 0
+        tan: -0.218017578
+        interpolationType: HSD_A_OP_SLP
+      - frame: 64
+        value: -2.45629883
+        tan: -0.191345215
+        interpolationType: HSD_A_OP_SPL
+      - frame: 65
+        value: 0
+        tan: -0.00048828125
+        interpolationType: HSD_A_OP_SLP
+      - frame: 65
+        value: -2.45678711
+        tan: -0.00048828125
+        interpolationType: HSD_A_OP_SPL
+      - frame: 66
+        value: 0
+        tan: 0.164489746
+        interpolationType: HSD_A_OP_SLP
+      - frame: 66
+        value: -2.29223633
+        tan: 0.164489746
+        interpolationType: HSD_A_OP_SPL
+      - frame: 67
+        value: 0
+        tan: -0.111083984
+        interpolationType: HSD_A_OP_SLP
+      - frame: 67
+        value: -2.40332031
+        tan: -0.111083984
+        interpolationType: HSD_A_OP_SPL
+      - frame: 69
+        value: 0
+        tan: -0.381652832
+        interpolationType: HSD_A_OP_SLP
+      - frame: 69
+        value: -3.12597656
+        tan: -0.340759277
+        interpolationType: HSD_A_OP_SPL
+      - frame: 70
+        value: 0
+        tan: -0.471496582
+        interpolationType: HSD_A_OP_SLP
+      - frame: 70
+        value: -3.59741211
+        tan: -0.471496582
+        interpolationType: HSD_A_OP_SPL
+      - frame: 71
+        value: 0
+        tan: -0.208374023
+        interpolationType: HSD_A_OP_SLP
+      - frame: 71
+        value: -3.8059082
+        tan: -0.208374023
+        interpolationType: HSD_A_OP_SPL
+      - frame: 72
+        value: 0
+        tan: 0.114990234
+        interpolationType: HSD_A_OP_SLP
+      - frame: 72
+        value: -3.69091797
+        tan: 0.114990234
+        interpolationType: HSD_A_OP_SPL
+      - frame: 73
+        value: 0
+        tan: 0.202270508
+        interpolationType: HSD_A_OP_SLP
+      - frame: 73
+        value: -3.48852539
+        tan: 0.202270508
+        interpolationType: HSD_A_OP_SPL
+      - frame: 75
+        value: 0
+        tan: 0.491821289
+        interpolationType: HSD_A_OP_SLP
+      - frame: 75
+        value: -2.43969727
+        tan: 0.557067871
+        interpolationType: HSD_A_OP_SPL
+      - frame: 76
+        value: 0
+        tan: 0.322753906
+        interpolationType: HSD_A_OP_SLP
+      - frame: 76
+        value: -2.11669922
+        tan: 0.322753906
+        interpolationType: HSD_A_OP_SPL
+      - frame: 78
+        value: 0
+        tan: -0.0905761719
+        interpolationType: HSD_A_OP_SLP
+      - frame: 78
+        value: -2.35351563
+        tan: -0.146118164
+        interpolationType: HSD_A_OP_SPL
+      - frame: 80
+        value: 0
+        tan: -0.0122680664
+        interpolationType: HSD_A_OP_SLP
+      - frame: 80
+        value: -2.30957031
+        tan: 0.0563354492
+        interpolationType: HSD_A_OP_SPL
+      - frame: 81
+        value: 0
+        tan: -0.147521973
+        interpolationType: HSD_A_OP_SLP
+      - frame: 81
+        value: -2.45703125
+        tan: -0.147521973
+        interpolationType: HSD_A_OP_SPL
+      - frame: 83
+        value: 0
+        tan: -0.371582031
+        interpolationType: HSD_A_OP_SLP
+      - frame: 83
+        value: -3.18432617
+        tan: -0.355529785
+        interpolationType: HSD_A_OP_SPL
+      - frame: 84
+        value: 0
+        tan: -0.552612305
+        interpolationType: HSD_A_OP_SLP
+      - frame: 84
+        value: -3.73681641
+        tan: -0.552612305
+        interpolationType: HSD_A_OP_SPL
+      - frame: 85
+        value: 0
+        tan: -0.204833984
+        interpolationType: HSD_A_OP_SLP
+      - frame: 85
+        value: -3.94165039
+        tan: -0.204833984
+        interpolationType: HSD_A_OP_SPL
+      - frame: 87
+        value: 0
+        tan: 0.210632324
+        interpolationType: HSD_A_OP_SLP
+      - frame: 87
+        value: -3.50341797
+        tan: 0.227600098
+        interpolationType: HSD_A_OP_SPL
+      - frame: 89
+        value: 0
+        tan: 0.392883301
+        interpolationType: HSD_A_OP_SLP
+      - frame: 89
+        value: -2.66235352
+        tan: 0.447998047
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: 0
+        tan: 0.354980469
+        interpolationType: HSD_A_OP_SLP
+      - frame: 90
+        value: -2.30737305
+        tan: 0.354980469
+        interpolationType: HSD_A_OP_SPL
+      - frame: 91
+        value: 0
+        tan: 0.120544434
+        interpolationType: HSD_A_OP_SLP
+      - frame: 91
+        value: -2.18676758
+        tan: 0.120544434
+        interpolationType: HSD_A_OP_SPL
+      - frame: 94
+        value: 0
+        tan: -0.0663452148
+        interpolationType: HSD_A_OP_SLP
+      - frame: 94
+        value: -2.32055664
+        tan: -0.00463867188
+        interpolationType: HSD_A_OP_SPL
+      - frame: 95
+        value: 0
+        tan: -0.0897216797
+        interpolationType: HSD_A_OP_SLP
+      - frame: 95
+        value: -2.41015625
+        tan: -0.0897216797
+        interpolationType: HSD_A_OP_SPL
+      - frame: 97
+        value: 0
+        tan: -0.305114746
+        interpolationType: HSD_A_OP_SLP
+      - frame: 97
+        value: -3.05932617
+        tan: -0.34375
+        interpolationType: HSD_A_OP_SPL
+      - frame: 98
+        value: 0
+        tan: 0.00604248047
+        interpolationType: HSD_A_OP_SLP
+      - frame: 98
+        value: -3.05322266
+        tan: 0.00604248047
+        interpolationType: HSD_A_OP_SPL
+      - frame: 101
+        value: 0
+        tan: 0.16583252
+        interpolationType: HSD_A_OP_SLP
+      - frame: 101
+        value: -2.63476563
+        tan: 0.108825684
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: 0
+        tan: 0.0682983398
+        interpolationType: HSD_A_OP_SLP
+      - frame: 108
+        value: -2.45092773
+        tan: 0.013671875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0
+        tan: -0.0211181641
+        interpolationType: HSD_A_OP_SLP
+      - frame: 109
+        value: -2.47216797
+        tan: -0.0211181641
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0
+        tan: -0.225524902
+        interpolationType: HSD_A_OP_SLP
+      - frame: 110
+        value: -2.69775391
+        tan: -0.225524902
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0
+        tan: -0.562927246
+        interpolationType: HSD_A_OP_SLP
+      - frame: 111
+        value: -3.26074219
+        tan: -0.562927246
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: -0.304443359
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: -3.56518555
+        tan: -0.304443359
+        interpolationType: HSD_A_OP_SPL
+      - frame: 118
+        value: 0
+        tan: -0.000732421875
+        interpolationType: HSD_A_OP_SLP
+      - frame: 118
+        value: -3.57006836
+        tan: 0.00604248047
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: 0.106262207
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: -3.38696289
+        tan: 0.0769042969
+        interpolationType: HSD_A_OP_SPL
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -2.70727539
+        tan: -0.0109863281
+        interpolationType: HSD_A_OP_SPL
+      - frame: 9
+        value: -2.50732422
+        tan: 0
+        interpolationType: HSD_A_OP_SPL
+      - frame: 14
+        value: 0
+        tan: -0.0185546875
+        interpolationType: HSD_A_OP_SLP
+      - frame: 14
+        value: -2.67871094
+        tan: -0.0120849609
+        interpolationType: HSD_A_OP_SPL
+      - frame: 21
+        value: -2.49291992
+        tan: 0.0551757813
+        interpolationType: HSD_A_OP_SPL
+      - frame: 22
+        value: 0
+        tan: 0.00256347656
+        interpolationType: HSD_A_OP_SLP
+      - frame: 22
+        value: -2.49023438
+        tan: 0.00256347656
+        interpolationType: HSD_A_OP_SPL
+      - frame: 23
+        value: 0
+        tan: 0.0939941406
+        interpolationType: HSD_A_OP_SLP
+      - frame: 23
+        value: -2.39624023
+        tan: 0.0939941406
+        interpolationType: HSD_A_OP_SPL
+      - frame: 25
+        value: 0
+        tan: 0.171142578
+        interpolationType: HSD_A_OP_SLP
+      - frame: 25
+        value: -2.08959961
+        tan: 0.135253906
+        interpolationType: HSD_A_OP_SPL
+      - frame: 27
+        value: 0
+        tan: 0.0671386719
+        interpolationType: HSD_A_OP_SLP
+      - frame: 27
+        value: -2.01367188
+        tan: 0.0087890625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 30
+        value: 0
+        tan: -0.0808105469
+        interpolationType: HSD_A_OP_SLP
+      - frame: 30
+        value: -2.22460938
+        tan: -0.0412597656
+        interpolationType: HSD_A_OP_SPL
+      - frame: 33
+        value: 0
+        tan: -0.0754394531
+        interpolationType: HSD_A_OP_SLP
+      - frame: 33
+        value: -2.4362793
+        tan: -0.0853271484
+        interpolationType: HSD_A_OP_SPL
+      - frame: 34
+        value: 0
+        tan: -0.388061523
+        interpolationType: HSD_A_OP_SLP
+      - frame: 34
+        value: -2.82446289
+        tan: -0.388061523
+        interpolationType: HSD_A_OP_SPL
+      - frame: 35
+        value: 0
+        tan: -0.580688477
+        interpolationType: HSD_A_OP_SLP
+      - frame: 35
+        value: -3.40527344
+        tan: -0.580688477
+        interpolationType: HSD_A_OP_SPL
+      - frame: 36
+        value: 0
+        tan: -0.0217285156
+        interpolationType: HSD_A_OP_SLP
+      - frame: 36
+        value: -3.42724609
+        tan: -0.0217285156
+        interpolationType: HSD_A_OP_SPL
+      - frame: 38
+        value: 0
+        tan: 0.437255859
+        interpolationType: HSD_A_OP_SLP
+      - frame: 38
+        value: -2.54248047
+        tan: 0.447387695
+        interpolationType: HSD_A_OP_SPL
+      - frame: 39
+        value: 0
+        tan: 0.379882813
+        interpolationType: HSD_A_OP_SLP
+      - frame: 39
+        value: -2.16235352
+        tan: 0.379882813
+        interpolationType: HSD_A_OP_SPL
+      - frame: 40
+        value: 0
+        tan: 0.192749023
+        interpolationType: HSD_A_OP_SLP
+      - frame: 40
+        value: -1.96972656
+        tan: 0.192749023
+        interpolationType: HSD_A_OP_SPL
+      - frame: 42
+        value: 0
+        tan: 0.0563964844
+        interpolationType: HSD_A_OP_SLP
+      - frame: 42
+        value: -1.92480469
+        tan: -0.01171875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 45
+        value: 0
+        tan: -0.0959472656
+        interpolationType: HSD_A_OP_SLP
+      - frame: 45
+        value: -2.2590332
+        tan: -0.139526367
+        interpolationType: HSD_A_OP_SPL
+      - frame: 47
+        value: 0
+        tan: -0.0777587891
+        interpolationType: HSD_A_OP_SLP
+      - frame: 47
+        value: -2.45483398
+        tan: -0.117919922
+        interpolationType: HSD_A_OP_SPL
+      - frame: 49
+        value: 0
+        tan: -0.716064453
+        interpolationType: HSD_A_OP_SLP
+      - frame: 49
+        value: -3.92578125
+        tan: -0.755004883
+        interpolationType: HSD_A_OP_SPL
+      - frame: 50
+        value: 0
+        tan: -0.128051758
+        interpolationType: HSD_A_OP_SLP
+      - frame: 50
+        value: -4.05395508
+        tan: -0.128051758
+        interpolationType: HSD_A_OP_SPL
+      - frame: 51
+        value: 0
+        tan: 0.161132813
+        interpolationType: HSD_A_OP_SLP
+      - frame: 51
+        value: -3.89282227
+        tan: 0.161132813
+        interpolationType: HSD_A_OP_SPL
+      - frame: 52
+        value: 0
+        tan: 0.666870117
+        interpolationType: HSD_A_OP_SLP
+      - frame: 52
+        value: -3.22583008
+        tan: 0.666870117
+        interpolationType: HSD_A_OP_SPL
+      - frame: 53
+        value: 0
+        tan: 1.0369873
+        interpolationType: HSD_A_OP_SLP
+      - frame: 53
+        value: -2.1887207
+        tan: 1.0369873
+        interpolationType: HSD_A_OP_SPL
+      - frame: 54
+        value: 0
+        tan: 0.321655273
+        interpolationType: HSD_A_OP_SLP
+      - frame: 54
+        value: -1.8671875
+        tan: 0.321655273
+        interpolationType: HSD_A_OP_SPL
+      - frame: 55
+        value: 0
+        tan: 0.0727539063
+        interpolationType: HSD_A_OP_SLP
+      - frame: 55
+        value: -1.79418945
+        tan: 0.0727539063
+        interpolationType: HSD_A_OP_SPL
+      - frame: 57
+        value: 0
+        tan: -0.00439453125
+        interpolationType: HSD_A_OP_SLP
+      - frame: 57
+        value: -1.8659668
+        tan: -0.0671386719
+        interpolationType: HSD_A_OP_SPL
+      - frame: 58
+        value: 0
+        tan: -0.106079102
+        interpolationType: HSD_A_OP_SLP
+      - frame: 58
+        value: -1.97192383
+        tan: -0.106079102
+        interpolationType: HSD_A_OP_SPL
+      - frame: 60
+        value: 0
+        tan: -0.211914063
+        interpolationType: HSD_A_OP_SLP
+      - frame: 60
+        value: -2.33447266
+        tan: -0.150390625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 61
+        value: 0
+        tan: -0.126708984
+        interpolationType: HSD_A_OP_SLP
+      - frame: 61
+        value: -2.46118164
+        tan: -0.126708984
+        interpolationType: HSD_A_OP_SPL
+      - frame: 62
+        value: 0
+        tan: -0.799438477
+        interpolationType: HSD_A_OP_SLP
+      - frame: 62
+        value: -3.26074219
+        tan: -0.799438477
+        interpolationType: HSD_A_OP_SPL
+      - frame: 63
+        value: 0
+        tan: -0.699462891
+        interpolationType: HSD_A_OP_SLP
+      - frame: 63
+        value: -3.96020508
+        tan: -0.699462891
+        interpolationType: HSD_A_OP_SPL
+      - frame: 64
+        value: 0
+        tan: -0.0826416016
+        interpolationType: HSD_A_OP_SLP
+      - frame: 64
+        value: -4.04296875
+        tan: -0.0826416016
+        interpolationType: HSD_A_OP_SPL
+      - frame: 65
+        value: 0
+        tan: 0.213500977
+        interpolationType: HSD_A_OP_SLP
+      - frame: 65
+        value: -3.8293457
+        tan: 0.213500977
+        interpolationType: HSD_A_OP_SPL
+      - frame: 66
+        value: 0
+        tan: 0.748046875
+        interpolationType: HSD_A_OP_SLP
+      - frame: 66
+        value: -3.08129883
+        tan: 0.748046875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 67
+        value: 0
+        tan: 0.927368164
+        interpolationType: HSD_A_OP_SLP
+      - frame: 67
+        value: -2.15380859
+        tan: 0.927368164
+        interpolationType: HSD_A_OP_SPL
+      - frame: 68
+        value: 0
+        tan: 0.271362305
+        interpolationType: HSD_A_OP_SLP
+      - frame: 68
+        value: -1.88232422
+        tan: 0.271362305
+        interpolationType: HSD_A_OP_SPL
+      - frame: 69
+        value: 0
+        tan: 0.0629882813
+        interpolationType: HSD_A_OP_SLP
+      - frame: 69
+        value: -1.81933594
+        tan: 0.0629882813
+        interpolationType: HSD_A_OP_SPL
+      - frame: 71
+        value: 0
+        tan: -0.0187988281
+        interpolationType: HSD_A_OP_SLP
+      - frame: 71
+        value: -1.92407227
+        tan: -0.0858154297
+        interpolationType: HSD_A_OP_SPL
+      - frame: 72
+        value: 0
+        tan: -0.102416992
+        interpolationType: HSD_A_OP_SLP
+      - frame: 72
+        value: -2.02661133
+        tan: -0.102416992
+        interpolationType: HSD_A_OP_SPL
+      - frame: 75
+        value: 0
+        tan: -0.182617188
+        interpolationType: HSD_A_OP_SLP
+      - frame: 75
+        value: -2.46411133
+        tan: -0.129882813
+        interpolationType: HSD_A_OP_SPL
+      - frame: 76
+        value: 0
+        tan: -0.581420898
+        interpolationType: HSD_A_OP_SLP
+      - frame: 76
+        value: -3.04541016
+        tan: -0.581420898
+        interpolationType: HSD_A_OP_SPL
+      - frame: 77
+        value: 0
+        tan: -0.674926758
+        interpolationType: HSD_A_OP_SLP
+      - frame: 77
+        value: -3.72045898
+        tan: -0.674926758
+        interpolationType: HSD_A_OP_SPL
+      - frame: 78
+        value: 0
+        tan: -0.13684082
+        interpolationType: HSD_A_OP_SLP
+      - frame: 78
+        value: -3.85742188
+        tan: -0.13684082
+        interpolationType: HSD_A_OP_SPL
+      - frame: 79
+        value: 0
+        tan: 0.205322266
+        interpolationType: HSD_A_OP_SLP
+      - frame: 79
+        value: -3.65209961
+        tan: 0.205322266
+        interpolationType: HSD_A_OP_SPL
+      - frame: 80
+        value: 0
+        tan: 0.654785156
+        interpolationType: HSD_A_OP_SLP
+      - frame: 80
+        value: -2.99707031
+        tan: 0.654785156
+        interpolationType: HSD_A_OP_SPL
+      - frame: 81
+        value: 0
+        tan: 0.792602539
+        interpolationType: HSD_A_OP_SLP
+      - frame: 81
+        value: -2.20458984
+        tan: 0.792602539
+        interpolationType: HSD_A_OP_SPL
+      - frame: 82
+        value: 0
+        tan: 0.273193359
+        interpolationType: HSD_A_OP_SLP
+      - frame: 82
+        value: -1.93139648
+        tan: 0.273193359
+        interpolationType: HSD_A_OP_SPL
+      - frame: 83
+        value: 0
+        tan: 0.0651855469
+        interpolationType: HSD_A_OP_SLP
+      - frame: 83
+        value: -1.8659668
+        tan: 0.0651855469
+        interpolationType: HSD_A_OP_SPL
+      - frame: 84
+        value: 0
+        tan: -0.0520019531
+        interpolationType: HSD_A_OP_SLP
+      - frame: 84
+        value: -1.91821289
+        tan: -0.0520019531
+        interpolationType: HSD_A_OP_SPL
+      - frame: 85
+        value: 0
+        tan: -0.132324219
+        interpolationType: HSD_A_OP_SLP
+      - frame: 85
+        value: -2.05053711
+        tan: -0.132324219
+        interpolationType: HSD_A_OP_SPL
+      - frame: 86
+        value: 0
+        tan: -0.0588378906
+        interpolationType: HSD_A_OP_SLP
+      - frame: 86
+        value: -2.109375
+        tan: -0.0588378906
+        interpolationType: HSD_A_OP_SPL
+      - frame: 89
+        value: 0
+        tan: -0.132080078
+        interpolationType: HSD_A_OP_SLP
+      - frame: 89
+        value: -2.39013672
+        tan: -0.0698242188
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: 0
+        tan: -0.276611328
+        interpolationType: HSD_A_OP_SLP
+      - frame: 90
+        value: -2.66674805
+        tan: -0.276611328
+        interpolationType: HSD_A_OP_SPL
+      - frame: 91
+        value: 0
+        tan: -0.506591797
+        interpolationType: HSD_A_OP_SLP
+      - frame: 91
+        value: -3.17333984
+        tan: -0.506591797
+        interpolationType: HSD_A_OP_SPL
+      - frame: 92
+        value: 0
+        tan: -0.303833008
+        interpolationType: HSD_A_OP_SLP
+      - frame: 92
+        value: -3.47705078
+        tan: -0.303833008
+        interpolationType: HSD_A_OP_SPL
+      - frame: 93
+        value: 0
+        tan: 0.0354003906
+        interpolationType: HSD_A_OP_SLP
+      - frame: 93
+        value: -3.44165039
+        tan: 0.0354003906
+        interpolationType: HSD_A_OP_SPL
+      - frame: 94
+        value: 0
+        tan: 0.362670898
+        interpolationType: HSD_A_OP_SLP
+      - frame: 94
+        value: -3.07885742
+        tan: 0.362670898
+        interpolationType: HSD_A_OP_SPL
+      - frame: 95
+        value: 0
+        tan: 0.582885742
+        interpolationType: HSD_A_OP_SLP
+      - frame: 95
+        value: -2.49609375
+        tan: 0.582885742
+        interpolationType: HSD_A_OP_SPL
+      - frame: 96
+        value: 0
+        tan: 0.373779297
+        interpolationType: HSD_A_OP_SLP
+      - frame: 96
+        value: -2.12207031
+        tan: 0.373779297
+        interpolationType: HSD_A_OP_SPL
+      - frame: 97
+        value: 0
+        tan: 0.122192383
+        interpolationType: HSD_A_OP_SLP
+      - frame: 97
+        value: -1.99975586
+        tan: 0.122192383
+        interpolationType: HSD_A_OP_SPL
+      - frame: 101
+        value: 0
+        tan: 0.00695800781
+        interpolationType: HSD_A_OP_SLP
+      - frame: 101
+        value: -2.21826172
+        tan: -0.106201172
+        interpolationType: HSD_A_OP_SPL
+      - frame: 105
+        value: 0
+        tan: -0.121826172
+        interpolationType: HSD_A_OP_SLP
+      - frame: 105
+        value: -2.578125
+        tan: -0.0454101563
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: 0
+        tan: -0.0256347656
+        interpolationType: HSD_A_OP_SLP
+      - frame: 108
+        value: -2.63549805
+        tan: -0.00439453125
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0
+        tan: 0.103759766
+        interpolationType: HSD_A_OP_SLP
+      - frame: 109
+        value: -2.53149414
+        tan: 0.103759766
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0
+        tan: 0.223632813
+        interpolationType: HSD_A_OP_SLP
+      - frame: 110
+        value: -2.30786133
+        tan: 0.223632813
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0
+        tan: 0.101928711
+        interpolationType: HSD_A_OP_SLP
+      - frame: 111
+        value: -2.20581055
+        tan: 0.101928711
+        interpolationType: HSD_A_OP_SPL
+      - frame: 117
+        value: 0
+        tan: -0.0484619141
+        interpolationType: HSD_A_OP_SLP
+      - frame: 117
+        value: -2.26464844
+        tan: -0.000244140625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: -2.21508789
+        tan: 0.0158691406
+        interpolationType: HSD_A_OP_SPL
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 1
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 8
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_SCAX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      - frame: 120
+        value: 1
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 9
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_SCAY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 1
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 10
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_SCAZ
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: -1.95446777
+        tan: -0.0101318359
+        interpolationType: HSD_A_OP_SPL
+      - frame: 7
+        value: -1.75878906
+        tan: 0.067565918
+        interpolationType: HSD_A_OP_SPL
+      - frame: 13
+        value: -1.15563965
+        tan: 0.164978027
+        interpolationType: HSD_A_OP_SPL
+      - frame: 15
+        value: -0.877441406
+        tan: 0.110168457
+        interpolationType: HSD_A_OP_SPL
+      - frame: 21
+        value: -0.190551758
+        tan: 0.155883789
+        interpolationType: HSD_A_OP_SPL
+      - frame: 23
+        value: 0
+        tan: -0.256713867
+        interpolationType: HSD_A_OP_SLP
+      - frame: 23
+        value: -0.771606445
+        tan: -0.32421875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 24
+        value: 0
+        tan: -0.135437012
+        interpolationType: HSD_A_OP_SLP
+      - frame: 24
+        value: -0.907104492
+        tan: -0.135437012
+        interpolationType: HSD_A_OP_SPL
+      - frame: 27
+        value: 0
+        tan: 0.0494384766
+        interpolationType: HSD_A_OP_SLP
+      - frame: 27
+        value: -0.847900391
+        tan: 0.0184936523
+        interpolationType: HSD_A_OP_SPL
+      - frame: 28
+        value: 0
+        tan: 0.169677734
+        interpolationType: HSD_A_OP_SLP
+      - frame: 28
+        value: -0.678222656
+        tan: 0.169677734
+        interpolationType: HSD_A_OP_SPL
+      - frame: 29
+        value: 0
+        tan: -0.0726318359
+        interpolationType: HSD_A_OP_SLP
+      - frame: 29
+        value: -0.750854492
+        tan: -0.0726318359
+        interpolationType: HSD_A_OP_SPL
+      - frame: 30
+        value: 0
+        tan: -0.383056641
+        interpolationType: HSD_A_OP_SLP
+      - frame: 30
+        value: -1.13391113
+        tan: -0.383056641
+        interpolationType: HSD_A_OP_SPL
+      - frame: 31
+        value: 0
+        tan: -0.287719727
+        interpolationType: HSD_A_OP_SLP
+      - frame: 31
+        value: -1.42163086
+        tan: -0.287719727
+        interpolationType: HSD_A_OP_SPL
+      - frame: 32
+        value: 0
+        tan: -0.144714355
+        interpolationType: HSD_A_OP_SLP
+      - frame: 32
+        value: -1.56640625
+        tan: -0.144714355
+        interpolationType: HSD_A_OP_SPL
+      - frame: 34
+        value: 0
+        tan: -0.0507202148
+        interpolationType: HSD_A_OP_SLP
+      - frame: 34
+        value: -1.71606445
+        tan: -0.0988769531
+        interpolationType: HSD_A_OP_SPL
+      - frame: 35
+        value: 0
+        tan: 0.0381469727
+        interpolationType: HSD_A_OP_SLP
+      - frame: 35
+        value: -1.67785645
+        tan: 0.0381469727
+        interpolationType: HSD_A_OP_SPL
+      - frame: 36
+        value: 0
+        tan: 0.416259766
+        interpolationType: HSD_A_OP_SLP
+      - frame: 36
+        value: -1.26159668
+        tan: 0.416259766
+        interpolationType: HSD_A_OP_SPL
+      - frame: 37
+        value: 0
+        tan: 0.770812988
+        interpolationType: HSD_A_OP_SLP
+      - frame: 37
+        value: -0.490722656
+        tan: 0.770812988
+        interpolationType: HSD_A_OP_SPL
+      - frame: 38
+        value: 0
+        tan: 0.306152344
+        interpolationType: HSD_A_OP_SLP
+      - frame: 38
+        value: -0.184570313
+        tan: 0.306152344
+        interpolationType: HSD_A_OP_SPL
+      - frame: 39
+        value: 0
+        tan: -0.373413086
+        interpolationType: HSD_A_OP_SLP
+      - frame: 39
+        value: -0.557983398
+        tan: -0.373413086
+        interpolationType: HSD_A_OP_SPL
+      - frame: 41
+        value: 0
+        tan: -0.14276123
+        interpolationType: HSD_A_OP_SLP
+      - frame: 41
+        value: -0.897216797
+        tan: -0.196411133
+        interpolationType: HSD_A_OP_SPL
+      - frame: 42
+        value: 0
+        tan: 0.130371094
+        interpolationType: HSD_A_OP_SLP
+      - frame: 42
+        value: -0.766845703
+        tan: 0.130371094
+        interpolationType: HSD_A_OP_SPL
+      - frame: 43
+        value: 0
+        tan: 0.000610351563
+        interpolationType: HSD_A_OP_SLP
+      - frame: 43
+        value: -0.766235352
+        tan: 0.000610351563
+        interpolationType: HSD_A_OP_SPL
+      - frame: 45
+        value: 0
+        tan: -0.396911621
+        interpolationType: HSD_A_OP_SLP
+      - frame: 45
+        value: -1.52661133
+        tan: -0.363464355
+        interpolationType: HSD_A_OP_SPL
+      - frame: 46
+        value: 0
+        tan: -0.263305664
+        interpolationType: HSD_A_OP_SLP
+      - frame: 46
+        value: -1.78991699
+        tan: -0.263305664
+        interpolationType: HSD_A_OP_SPL
+      - frame: 47
+        value: 0
+        tan: -0.152038574
+        interpolationType: HSD_A_OP_SLP
+      - frame: 47
+        value: -1.9420166
+        tan: -0.152038574
+        interpolationType: HSD_A_OP_SPL
+      - frame: 48
+        value: 0
+        tan: -0.0710449219
+        interpolationType: HSD_A_OP_SLP
+      - frame: 48
+        value: -2.01306152
+        tan: -0.0710449219
+        interpolationType: HSD_A_OP_SPL
+      - frame: 49
+        value: 0
+        tan: 0.0811767578
+        interpolationType: HSD_A_OP_SLP
+      - frame: 49
+        value: -1.93188477
+        tan: 0.0811767578
+        interpolationType: HSD_A_OP_SPL
+      - frame: 50
+        value: 0
+        tan: 0.267822266
+        interpolationType: HSD_A_OP_SLP
+      - frame: 50
+        value: -1.6640625
+        tan: 0.267822266
+        interpolationType: HSD_A_OP_SPL
+      - frame: 51
+        value: 0
+        tan: 0.356018066
+        interpolationType: HSD_A_OP_SLP
+      - frame: 51
+        value: -1.3079834
+        tan: 0.356018066
+        interpolationType: HSD_A_OP_SPL
+      - frame: 52
+        value: 0
+        tan: 0.116149902
+        interpolationType: HSD_A_OP_SLP
+      - frame: 52
+        value: -1.19177246
+        tan: 0.116149902
+        interpolationType: HSD_A_OP_SPL
+      - frame: 53
+        value: 0
+        tan: 0.0325317383
+        interpolationType: HSD_A_OP_SLP
+      - frame: 53
+        value: -1.15917969
+        tan: 0.0325317383
+        interpolationType: HSD_A_OP_SPL
+      - frame: 54
+        value: 0
+        tan: 0.163452148
+        interpolationType: HSD_A_OP_SLP
+      - frame: 54
+        value: -0.995727539
+        tan: 0.163452148
+        interpolationType: HSD_A_OP_SPL
+      - frame: 55
+        value: 0
+        tan: 0.0642089844
+        interpolationType: HSD_A_OP_SLP
+      - frame: 55
+        value: -0.931518555
+        tan: 0.0642089844
+        interpolationType: HSD_A_OP_SPL
+      - frame: 56
+        value: 0
+        tan: 0.168640137
+        interpolationType: HSD_A_OP_SLP
+      - frame: 56
+        value: -0.762817383
+        tan: 0.168640137
+        interpolationType: HSD_A_OP_SPL
+      - frame: 57
+        value: 0
+        tan: -0.085144043
+        interpolationType: HSD_A_OP_SLP
+      - frame: 57
+        value: -0.848022461
+        tan: -0.085144043
+        interpolationType: HSD_A_OP_SPL
+      - frame: 58
+        value: 0
+        tan: -0.45690918
+        interpolationType: HSD_A_OP_SLP
+      - frame: 58
+        value: -1.30493164
+        tan: -0.45690918
+        interpolationType: HSD_A_OP_SPL
+      - frame: 59
+        value: 0
+        tan: -0.369873047
+        interpolationType: HSD_A_OP_SLP
+      - frame: 59
+        value: -1.67480469
+        tan: -0.369873047
+        interpolationType: HSD_A_OP_SPL
+      - frame: 60
+        value: 0
+        tan: -0.227355957
+        interpolationType: HSD_A_OP_SLP
+      - frame: 60
+        value: -1.90222168
+        tan: -0.227355957
+        interpolationType: HSD_A_OP_SPL
+      - frame: 62
+        value: 0
+        tan: -0.110046387
+        interpolationType: HSD_A_OP_SLP
+      - frame: 62
+        value: -2.05957031
+        tan: -0.0472412109
+        interpolationType: HSD_A_OP_SPL
+      - frame: 63
+        value: 0
+        tan: 0.106201172
+        interpolationType: HSD_A_OP_SLP
+      - frame: 63
+        value: -1.95336914
+        tan: 0.106201172
+        interpolationType: HSD_A_OP_SPL
+      - frame: 64
+        value: 0
+        tan: 0.298522949
+        interpolationType: HSD_A_OP_SLP
+      - frame: 64
+        value: -1.65478516
+        tan: 0.298522949
+        interpolationType: HSD_A_OP_SPL
+      - frame: 65
+        value: 0
+        tan: 0.399963379
+        interpolationType: HSD_A_OP_SLP
+      - frame: 65
+        value: -1.25488281
+        tan: 0.399963379
+        interpolationType: HSD_A_OP_SPL
+      - frame: 66
+        value: 0
+        tan: 0.199462891
+        interpolationType: HSD_A_OP_SLP
+      - frame: 66
+        value: -1.05541992
+        tan: 0.199462891
+        interpolationType: HSD_A_OP_SPL
+      - frame: 67
+        value: 0
+        tan: 0.0992431641
+        interpolationType: HSD_A_OP_SLP
+      - frame: 67
+        value: -0.956054688
+        tan: 0.0992431641
+        interpolationType: HSD_A_OP_SPL
+      - frame: 68
+        value: 0
+        tan: 0.178039551
+        interpolationType: HSD_A_OP_SLP
+      - frame: 68
+        value: -0.778076172
+        tan: 0.178039551
+        interpolationType: HSD_A_OP_SPL
+      - frame: 69
+        value: 0
+        tan: 0.0266113281
+        interpolationType: HSD_A_OP_SLP
+      - frame: 69
+        value: -0.751342773
+        tan: 0.0266113281
+        interpolationType: HSD_A_OP_SPL
+      - frame: 70
+        value: 0
+        tan: 0.193664551
+        interpolationType: HSD_A_OP_SLP
+      - frame: 70
+        value: -0.557739258
+        tan: 0.193664551
+        interpolationType: HSD_A_OP_SPL
+      - frame: 71
+        value: 0
+        tan: -0.107299805
+        interpolationType: HSD_A_OP_SLP
+      - frame: 71
+        value: -0.665039063
+        tan: -0.107299805
+        interpolationType: HSD_A_OP_SPL
+      - frame: 72
+        value: 0
+        tan: -0.524414063
+        interpolationType: HSD_A_OP_SLP
+      - frame: 72
+        value: -1.18945313
+        tan: -0.524414063
+        interpolationType: HSD_A_OP_SPL
+      - frame: 73
+        value: 0
+        tan: -0.377868652
+        interpolationType: HSD_A_OP_SLP
+      - frame: 73
+        value: -1.56738281
+        tan: -0.377868652
+        interpolationType: HSD_A_OP_SPL
+      - frame: 74
+        value: 0
+        tan: -0.216796875
+        interpolationType: HSD_A_OP_SLP
+      - frame: 74
+        value: -1.78417969
+        tan: -0.216796875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 76
+        value: 0
+        tan: -0.100402832
+        interpolationType: HSD_A_OP_SLP
+      - frame: 76
+        value: -1.92565918
+        tan: -0.0409545898
+        interpolationType: HSD_A_OP_SPL
+      - frame: 77
+        value: 0
+        tan: 0.104370117
+        interpolationType: HSD_A_OP_SLP
+      - frame: 77
+        value: -1.82128906
+        tan: 0.104370117
+        interpolationType: HSD_A_OP_SPL
+      - frame: 78
+        value: 0
+        tan: 0.288085938
+        interpolationType: HSD_A_OP_SLP
+      - frame: 78
+        value: -1.53320313
+        tan: 0.288085938
+        interpolationType: HSD_A_OP_SPL
+      - frame: 79
+        value: 0
+        tan: 0.393005371
+        interpolationType: HSD_A_OP_SLP
+      - frame: 79
+        value: -1.14013672
+        tan: 0.393005371
+        interpolationType: HSD_A_OP_SPL
+      - frame: 80
+        value: 0
+        tan: 0.182678223
+        interpolationType: HSD_A_OP_SLP
+      - frame: 80
+        value: -0.957519531
+        tan: 0.182678223
+        interpolationType: HSD_A_OP_SPL
+      - frame: 81
+        value: 0
+        tan: 0.0739135742
+        interpolationType: HSD_A_OP_SLP
+      - frame: 81
+        value: -0.883544922
+        tan: 0.0739135742
+        interpolationType: HSD_A_OP_SPL
+      - frame: 82
+        value: 0
+        tan: 0.177429199
+        interpolationType: HSD_A_OP_SLP
+      - frame: 82
+        value: -0.706054688
+        tan: 0.177429199
+        interpolationType: HSD_A_OP_SPL
+      - frame: 83
+        value: 0
+        tan: 0.0634155273
+        interpolationType: HSD_A_OP_SLP
+      - frame: 83
+        value: -0.642578125
+        tan: 0.0634155273
+        interpolationType: HSD_A_OP_SPL
+      - frame: 84
+        value: 0
+        tan: 0.377685547
+        interpolationType: HSD_A_OP_SLP
+      - frame: 84
+        value: -0.264892578
+        tan: 0.377685547
+        interpolationType: HSD_A_OP_SPL
+      - frame: 85
+        value: 0
+        tan: -0.0512695313
+        interpolationType: HSD_A_OP_SLP
+      - frame: 85
+        value: -0.316162109
+        tan: -0.0512695313
+        interpolationType: HSD_A_OP_SPL
+      - frame: 86
+        value: 0
+        tan: -0.636047363
+        interpolationType: HSD_A_OP_SLP
+      - frame: 86
+        value: -0.952270508
+        tan: -0.636047363
+        interpolationType: HSD_A_OP_SPL
+      - frame: 87
+        value: 0
+        tan: -0.362365723
+        interpolationType: HSD_A_OP_SLP
+      - frame: 87
+        value: -1.3145752
+        tan: -0.362365723
+        interpolationType: HSD_A_OP_SPL
+      - frame: 88
+        value: 0
+        tan: -0.205444336
+        interpolationType: HSD_A_OP_SLP
+      - frame: 88
+        value: -1.52001953
+        tan: -0.205444336
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: 0
+        tan: -0.129577637
+        interpolationType: HSD_A_OP_SLP
+      - frame: 90
+        value: -1.7434082
+        tan: -0.0936889648
+        interpolationType: HSD_A_OP_SPL
+      - frame: 91
+        value: 0
+        tan: 0.0150756836
+        interpolationType: HSD_A_OP_SLP
+      - frame: 91
+        value: -1.72827148
+        tan: 0.0150756836
+        interpolationType: HSD_A_OP_SPL
+      - frame: 93
+        value: 0
+        tan: 0.137329102
+        interpolationType: HSD_A_OP_SLP
+      - frame: 93
+        value: -1.39245605
+        tan: 0.198425293
+        interpolationType: HSD_A_OP_SPL
+      - frame: 95
+        value: 0
+        tan: 0.184204102
+        interpolationType: HSD_A_OP_SLP
+      - frame: 95
+        value: -0.97277832
+        tan: 0.235351563
+        interpolationType: HSD_A_OP_SPL
+      - frame: 97
+        value: 0
+        tan: 0.358642578
+        interpolationType: HSD_A_OP_SLP
+      - frame: 97
+        value: -0.219726563
+        tan: 0.394348145
+        interpolationType: HSD_A_OP_SPL
+      - frame: 98
+        value: 0
+        tan: -0.157653809
+        interpolationType: HSD_A_OP_SLP
+      - frame: 98
+        value: -0.377441406
+        tan: -0.157653809
+        interpolationType: HSD_A_OP_SPL
+      - frame: 101
+        value: 0
+        tan: -0.366760254
+        interpolationType: HSD_A_OP_SLP
+      - frame: 101
+        value: -1.35766602
+        tan: -0.280822754
+        interpolationType: HSD_A_OP_SPL
+      - frame: 102
+        value: 0
+        tan: -0.214416504
+        interpolationType: HSD_A_OP_SLP
+      - frame: 102
+        value: -1.57214355
+        tan: -0.214416504
+        interpolationType: HSD_A_OP_SPL
+      - frame: 103
+        value: 0
+        tan: -0.136291504
+        interpolationType: HSD_A_OP_SLP
+      - frame: 103
+        value: -1.70849609
+        tan: -0.136291504
+        interpolationType: HSD_A_OP_SPL
+      - frame: 105
+        value: 0
+        tan: -0.0587158203
+        interpolationType: HSD_A_OP_SLP
+      - frame: 105
+        value: -1.76879883
+        tan: -0.00146484375
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: 0
+        tan: 0.0205078125
+        interpolationType: HSD_A_OP_SLP
+      - frame: 108
+        value: -1.70056152
+        tan: 0.0388183594
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0
+        tan: 0.192382813
+        interpolationType: HSD_A_OP_SLP
+      - frame: 109
+        value: -1.50817871
+        tan: 0.192382813
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0
+        tan: 0.311828613
+        interpolationType: HSD_A_OP_SLP
+      - frame: 110
+        value: -1.19628906
+        tan: 0.311828613
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0
+        tan: 0.74621582
+        interpolationType: HSD_A_OP_SLP
+      - frame: 111
+        value: -0.450073242
+        tan: 0.74621582
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: 0.432678223
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: 0
+        tan: 0.432678223
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: -0.0173339844
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 119
+        value: -0.264770508
+        tan: -0.0353393555
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: -0.176940918
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: -0.441772461
+        tan: -0.176940918
+        interpolationType: HSD_A_OP_SPL
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 1
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 111
+        value: 1
+        tan: 0.00445556641
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 1.5
+        tan: 0.333312988
+        interpolationType: HSD_A_OP_SPL
+      - frame: 114
+        value: 2
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      - frame: 118
+        value: 1.5
+        tan: -0.166625977
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: -0.0454101563
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: 1
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      trackType: 8
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_SCAX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 111
+        value: 1
+        tan: 0.00445556641
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 1.5
+        tan: 0.333312988
+        interpolationType: HSD_A_OP_SPL
+      - frame: 114
+        value: 2
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      - frame: 118
+        value: 1.5
+        tan: -0.166625977
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: -0.0454101563
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: 1
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      trackType: 9
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_SCAY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0.999938965
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 111
+        value: 0.999938965
+        tan: 0.00445556641
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 1.5
+        tan: 0.333312988
+        interpolationType: HSD_A_OP_SPL
+      - frame: 114
+        value: 2
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      - frame: 118
+        value: 1.5
+        tan: -0.166625977
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: -0.0454101563
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: 1
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      trackType: 10
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_SCAZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1.22167969
+        tan: -0.00732421875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 9
+        value: 0
+        tan: 0.0670776367
+        interpolationType: HSD_A_OP_SLP
+      - frame: 9
+        value: 1.22167969
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 13
+        value: 2.09436035
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 20
+        value: 1.24511719
+        tan: -0.00854492188
+        interpolationType: HSD_A_OP_SPL
+      - frame: 101
+        value: 1.33837891
+        tan: -0.000244140625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0
+        tan: -0.124572754
+        interpolationType: HSD_A_OP_SLP
+      - frame: 110
+        value: 1.22167969
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 112
+        value: -0.0319824219
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 114
+        value: -0.324707031
+        tan: -0.0714111328
+        interpolationType: HSD_A_OP_SPL
+      - frame: 118
+        value: -0.460571289
+        tan: -0.0293579102
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: -0.500976563
+        tan: -0.00366210938
+        interpolationType: HSD_A_OP_SPL
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0.00207519531
+        interpolationType: HSD_A_OP_SPL
+      - frame: 20
+        value: -0.128845215
+        tan: -0.00103759766
+        interpolationType: HSD_A_OP_SPL
+      - frame: 101
+        value: -0.109375
+        tan: 0.00140380859
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0
+        tan: 0.0303344727
+        interpolationType: HSD_A_OP_SLP
+      - frame: 110
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 112
+        value: 0.22454834
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 114
+        value: 0.0493774414
+        tan: -0.0654907227
+        interpolationType: HSD_A_OP_SPL
+      - frame: 118
+        value: -0.168457031
+        tan: -0.0350952148
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: -0.161254883
+        tan: 0.000610351563
+        interpolationType: HSD_A_OP_SPL
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0.000732421875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 20
+        value: -0.360778809
+        tan: -0.00335693359
+        interpolationType: HSD_A_OP_SPL
+      - frame: 101
+        value: -0.342773438
+        tan: 0.00396728516
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0
+        tan: 0.0228881836
+        interpolationType: HSD_A_OP_SLP
+      - frame: 110
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 112
+        value: -0.0903930664
+        tan: 0
+        interpolationType: HSD_A_OP_LIN
+      - frame: 114
+        value: 0.0358276367
+        tan: 0.0138549805
+        interpolationType: HSD_A_OP_SPL
+      - frame: 118
+        value: -0.00689697266
+        tan: 0.00994873047
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0.0955200195
+        tan: 0.00927734375
+        interpolationType: HSD_A_OP_SPL
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1.19970703
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      - frame: 111
+        value: 1.19970703
+        tan: 0.00701904297
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 1.9876709
+        tan: 0.0875549316
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 1.9876709
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 5
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      - frame: 111
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 6
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      - frame: 111
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 7
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_TRAZ
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -1.15185547
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: -1.15185547
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: -1.15185547
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: -1.15185547
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -1.15185547
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: -1.15185547
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: -1.15185547
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: -1.15185547
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -1.15185547
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: -1.15185547
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: -1.15185547
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: -1.15185547
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -1.15185547
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: -1.15185547
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: -1.15185547
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: -1.15185547
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 3.14147949
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 3.14147949
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: -0.349060059
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: -0.349060059
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -0.942443848
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: -0.942443848
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0.41885376
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0.41885376
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 1.57073975
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 1.57073975
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 1.22167969
+        tan: -0.0123901367
+        interpolationType: HSD_A_OP_SPL
+      - frame: 9
+        value: 1.22167969
+        tan: 0.0537109375
+        interpolationType: HSD_A_OP_SPL
+      - frame: 13
+        value: 0
+        tan: 0.218139648
+        interpolationType: HSD_A_OP_SLP
+      - frame: 13
+        value: 2.09436035
+        tan: 0.218139648
+        interpolationType: HSD_A_OP_SPL
+      - frame: 20
+        value: 0
+        tan: -0.121276855
+        interpolationType: HSD_A_OP_SLP
+      - frame: 20
+        value: 1.24511719
+        tan: -0.121276855
+        interpolationType: HSD_A_OP_SPL
+      - frame: 100
+        value: 0
+        tan: -0.00830078125
+        interpolationType: HSD_A_OP_SLP
+      - frame: 100
+        value: 1.33850098
+        tan: 0
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 1.32409668
+        tan: -0.0629272461
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0
+        tan: -0.102416992
+        interpolationType: HSD_A_OP_SLP
+      - frame: 110
+        value: 1.22167969
+        tan: -0.102416992
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: -0.62689209
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: -0.0319824219
+        tan: -0.62689209
+        interpolationType: HSD_A_OP_SPL
+      - frame: 114
+        value: 0
+        tan: -0.146362305
+        interpolationType: HSD_A_OP_SLP
+      - frame: 114
+        value: -0.324707031
+        tan: -0.146362305
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: -0.055847168
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: -0.500976563
+        tan: -0.0137329102
+        interpolationType: HSD_A_OP_SPL
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0.107788086
+        tan: -0.000366210938
+        interpolationType: HSD_A_OP_SPL
+      - frame: 97
+        value: 0.101715088
+        tan: -0.000854492188
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0
+        tan: -0.020690918
+        interpolationType: HSD_A_OP_SLP
+      - frame: 110
+        value: 0.100463867
+        tan: 0.00360107422
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0.104125977
+        tan: 0.00360107422
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: 0.00360107422
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: 0.107788086
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0.107788086
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0.252502441
+        tan: 0.00103759766
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: 0.252502441
+        tan: -0.001953125
+        interpolationType: HSD_A_OP_SPL
+      - frame: 97
+        value: 0
+        tan: -0.0275268555
+        interpolationType: HSD_A_OP_SLP
+      - frame: 97
+        value: 0.0594482422
+        tan: -0.0275268555
+        interpolationType: HSD_A_OP_SPL
+      - frame: 99
+        value: 0
+        tan: -0.0642700195
+        interpolationType: HSD_A_OP_SLP
+      - frame: 99
+        value: -0.0690917969
+        tan: -0.0642700195
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0
+        tan: 0.0247192383
+        interpolationType: HSD_A_OP_SLP
+      - frame: 111
+        value: 0.227783203
+        tan: 0.0247192383
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: 0.0247192383
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: 0.252502441
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0.252502441
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0.203979492
+        tan: 0
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: 0.203979492
+        tan: -0.000793457031
+        interpolationType: HSD_A_OP_SPL
+      - frame: 100
+        value: 0
+        tan: -0.0114135742
+        interpolationType: HSD_A_OP_SLP
+      - frame: 100
+        value: 0.139190674
+        tan: 0.00537109375
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0.198577881
+        tan: 0.00537109375
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: 0.00537109375
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: 0.203979492
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0.203979492
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+  - tracks: []
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0.0672607422
+        tan: 0.00775146484
+        interpolationType: HSD_A_OP_SPL
+      - frame: 6
+        value: 0.192016602
+        tan: -0.0106811523
+        interpolationType: HSD_A_OP_SPL
+      - frame: 7
+        value: 0
+        tan: -0.219970703
+        interpolationType: HSD_A_OP_SLP
+      - frame: 7
+        value: -0.0278320313
+        tan: -0.219970703
+        interpolationType: HSD_A_OP_SPL
+      - frame: 9
+        value: 0
+        tan: -0.373779297
+        interpolationType: HSD_A_OP_SLP
+      - frame: 9
+        value: -0.746704102
+        tan: -0.344970703
+        interpolationType: HSD_A_OP_SPL
+      - frame: 10
+        value: 0
+        tan: -0.234741211
+        interpolationType: HSD_A_OP_SLP
+      - frame: 10
+        value: -0.981445313
+        tan: -0.234741211
+        interpolationType: HSD_A_OP_SPL
+      - frame: 11
+        value: 0
+        tan: -0.0741577148
+        interpolationType: HSD_A_OP_SLP
+      - frame: 11
+        value: -1.05566406
+        tan: -0.0741577148
+        interpolationType: HSD_A_OP_SPL
+      - frame: 24
+        value: 0
+        tan: 0.016784668
+        interpolationType: HSD_A_OP_SLP
+      - frame: 24
+        value: -0.932128906
+        tan: -0.0108032227
+        interpolationType: HSD_A_OP_SPL
+      - frame: 32
+        value: 0
+        tan: -0.0247192383
+        interpolationType: HSD_A_OP_SLP
+      - frame: 32
+        value: -1.2244873
+        tan: -0.00109863281
+        interpolationType: HSD_A_OP_SPL
+      - frame: 39
+        value: 0
+        tan: 0.0162963867
+        interpolationType: HSD_A_OP_SLP
+      - frame: 39
+        value: -1.09924316
+        tan: -0.0280151367
+        interpolationType: HSD_A_OP_SPL
+      - frame: 45
+        value: 0
+        tan: -0.0479125977
+        interpolationType: HSD_A_OP_SLP
+      - frame: 45
+        value: -1.32104492
+        tan: -0.00701904297
+        interpolationType: HSD_A_OP_SPL
+      - frame: 53
+        value: 0
+        tan: 0.00988769531
+        interpolationType: HSD_A_OP_SLP
+      - frame: 53
+        value: -1.17346191
+        tan: -0.0289916992
+        interpolationType: HSD_A_OP_SPL
+      - frame: 59
+        value: 0
+        tan: -0.0477905273
+        interpolationType: HSD_A_OP_SLP
+      - frame: 59
+        value: -1.37841797
+        tan: 0.00207519531
+        interpolationType: HSD_A_OP_SPL
+      - frame: 66
+        value: 0
+        tan: 0.0186157227
+        interpolationType: HSD_A_OP_SLP
+      - frame: 66
+        value: -1.1739502
+        tan: -0.00231933594
+        interpolationType: HSD_A_OP_SPL
+      - frame: 72
+        value: 0
+        tan: -0.0314941406
+        interpolationType: HSD_A_OP_SLP
+      - frame: 72
+        value: -1.40771484
+        tan: -0.00866699219
+        interpolationType: HSD_A_OP_SPL
+      - frame: 80
+        value: 0
+        tan: 0.00994873047
+        interpolationType: HSD_A_OP_SLP
+      - frame: 80
+        value: -1.17700195
+        tan: -0.00573730469
+        interpolationType: HSD_A_OP_SPL
+      - frame: 86
+        value: 0
+        tan: -0.0349121094
+        interpolationType: HSD_A_OP_SLP
+      - frame: 86
+        value: -1.41027832
+        tan: -0.00335693359
+        interpolationType: HSD_A_OP_SPL
+      - frame: 95
+        value: 0
+        tan: 0.0168457031
+        interpolationType: HSD_A_OP_SLP
+      - frame: 95
+        value: -0.93762207
+        tan: 0.0472412109
+        interpolationType: HSD_A_OP_SPL
+      - frame: 99
+        value: -0.572509766
+        tan: 0.14630127
+        interpolationType: HSD_A_OP_SPL
+      - frame: 103
+        value: 0
+        tan: 0.170532227
+        interpolationType: HSD_A_OP_SLP
+      - frame: 103
+        value: -0.0352783203
+        tan: 0.0794067383
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: 0
+        tan: 0.0305786133
+        interpolationType: HSD_A_OP_SLP
+      - frame: 108
+        value: -0.00744628906
+        tan: -0.000671386719
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0
+        tan: -0.290405273
+        interpolationType: HSD_A_OP_SLP
+      - frame: 109
+        value: -0.297973633
+        tan: -0.290405273
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0
+        tan: -0.442626953
+        interpolationType: HSD_A_OP_SLP
+      - frame: 111
+        value: -1.15197754
+        tan: -0.411437988
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: -0.237915039
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: -1.39001465
+        tan: -0.237915039
+        interpolationType: HSD_A_OP_SPL
+      - frame: 113
+        value: 0
+        tan: -0.0803833008
+        interpolationType: HSD_A_OP_SLP
+      - frame: 113
+        value: -1.47045898
+        tan: -0.0803833008
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: -0.000610351563
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: -1.22033691
+        tan: 0.0278930664
+        interpolationType: HSD_A_OP_SPL
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -0.43548584
+        tan: 0.00842285156
+        interpolationType: HSD_A_OP_SPL
+      - frame: 6
+        value: -0.490844727
+        tan: -0.0380249023
+        interpolationType: HSD_A_OP_SPL
+      - frame: 7
+        value: 0
+        tan: -0.0264892578
+        interpolationType: HSD_A_OP_SLP
+      - frame: 7
+        value: -0.517333984
+        tan: -0.0264892578
+        interpolationType: HSD_A_OP_SPL
+      - frame: 8
+        value: 0
+        tan: 0.0831298828
+        interpolationType: HSD_A_OP_SLP
+      - frame: 8
+        value: -0.434204102
+        tan: 0.0831298828
+        interpolationType: HSD_A_OP_SPL
+      - frame: 10
+        value: 0
+        tan: 0.177001953
+        interpolationType: HSD_A_OP_SLP
+      - frame: 10
+        value: -0.119873047
+        tan: 0.137268066
+        interpolationType: HSD_A_OP_SPL
+      - frame: 12
+        value: 0
+        tan: 0.026184082
+        interpolationType: HSD_A_OP_SLP
+      - frame: 12
+        value: -0.129638672
+        tan: -0.0363769531
+        interpolationType: HSD_A_OP_SPL
+      - frame: 22
+        value: -0.373718262
+        tan: -0.00842285156
+        interpolationType: HSD_A_OP_SPL
+      - frame: 30
+        value: -0.34954834
+        tan: 0.0221557617
+        interpolationType: HSD_A_OP_SPL
+      - frame: 39
+        value: -0.361816406
+        tan: -0.00982666016
+        interpolationType: HSD_A_OP_SPL
+      - frame: 49
+        value: -0.291564941
+        tan: -0.0125732422
+        interpolationType: HSD_A_OP_SPL
+      - frame: 57
+        value: -0.324279785
+        tan: 0.0177001953
+        interpolationType: HSD_A_OP_SPL
+      - frame: 65
+        value: -0.335021973
+        tan: -0.0159912109
+        interpolationType: HSD_A_OP_SPL
+      - frame: 77
+        value: -0.317932129
+        tan: -0.0143432617
+        interpolationType: HSD_A_OP_SPL
+      - frame: 85
+        value: -0.337585449
+        tan: 0.0126953125
+        interpolationType: HSD_A_OP_SPL
+      - frame: 94
+        value: -0.50378418
+        tan: -0.051940918
+        interpolationType: HSD_A_OP_SPL
+      - frame: 100
+        value: -0.689758301
+        tan: 0.0119628906
+        interpolationType: HSD_A_OP_SPL
+      - frame: 106
+        value: 0
+        tan: 0.0325317383
+        interpolationType: HSD_A_OP_SLP
+      - frame: 106
+        value: -0.486450195
+        tan: 0.0200805664
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: -0.383117676
+        tan: 0.053894043
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0
+        tan: 0.133056641
+        interpolationType: HSD_A_OP_SLP
+      - frame: 111
+        value: -0.108520508
+        tan: 0.141418457
+        interpolationType: HSD_A_OP_SPL
+      - frame: 116
+        value: 0
+        tan: 0.0291748047
+        interpolationType: HSD_A_OP_SLP
+      - frame: 116
+        value: -0.096862793
+        tan: 0.00146484375
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: -0.109436035
+        tan: -0.00421142578
+        interpolationType: HSD_A_OP_SPL
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -0.309692383
+        tan: 0.0551147461
+        interpolationType: HSD_A_OP_SPL
+      - frame: 6
+        value: -0.208862305
+        tan: -0.00909423828
+        interpolationType: HSD_A_OP_SPL
+      - frame: 8
+        value: 0
+        tan: 0.0725708008
+        interpolationType: HSD_A_OP_SLP
+      - frame: 8
+        value: -0.00360107422
+        tan: 0.132568359
+        interpolationType: HSD_A_OP_SPL
+      - frame: 9
+        value: 0
+        tan: 0.0628662109
+        interpolationType: HSD_A_OP_SLP
+      - frame: 9
+        value: 0.0592041016
+        tan: 0.0628662109
+        interpolationType: HSD_A_OP_SPL
+      - frame: 18
+        value: 0
+        tan: -0.00823974609
+        interpolationType: HSD_A_OP_SLP
+      - frame: 18
+        value: 0.169433594
+        tan: 0.00653076172
+        interpolationType: HSD_A_OP_SPL
+      - frame: 27
+        value: 0.245300293
+        tan: 0.0216674805
+        interpolationType: HSD_A_OP_SPL
+      - frame: 35
+        value: 0.228881836
+        tan: -0.0124511719
+        interpolationType: HSD_A_OP_SPL
+      - frame: 42
+        value: 0.319458008
+        tan: 0.0220947266
+        interpolationType: HSD_A_OP_SPL
+      - frame: 53
+        value: 0
+        tan: 0.00738525391
+        interpolationType: HSD_A_OP_SLP
+      - frame: 53
+        value: 0.255981445
+        tan: 0.0251464844
+        interpolationType: HSD_A_OP_SPL
+      - frame: 58
+        value: 0.325744629
+        tan: -0.0125732422
+        interpolationType: HSD_A_OP_SPL
+      - frame: 67
+        value: 0
+        tan: -0.0218505859
+        interpolationType: HSD_A_OP_SLP
+      - frame: 67
+        value: 0.248474121
+        tan: 0.0260620117
+        interpolationType: HSD_A_OP_SPL
+      - frame: 72
+        value: 0.308288574
+        tan: -0.018371582
+        interpolationType: HSD_A_OP_SPL
+      - frame: 81
+        value: 0
+        tan: -0.0277099609
+        interpolationType: HSD_A_OP_SLP
+      - frame: 81
+        value: 0.211364746
+        tan: 0.0247192383
+        interpolationType: HSD_A_OP_SPL
+      - frame: 86
+        value: 0.2421875
+        tan: -0.0317382813
+        interpolationType: HSD_A_OP_SPL
+      - frame: 95
+        value: 0.0889282227
+        tan: 0.0100708008
+        interpolationType: HSD_A_OP_SPL
+      - frame: 99
+        value: -0.00201416016
+        tan: -0.0686645508
+        interpolationType: HSD_A_OP_SPL
+      - frame: 104
+        value: 0
+        tan: -0.0917358398
+        interpolationType: HSD_A_OP_SLP
+      - frame: 104
+        value: -0.344970703
+        tan: -0.0430297852
+        interpolationType: HSD_A_OP_SPL
+      - frame: 107
+        value: -0.38458252
+        tan: 0.0249633789
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: 0
+        tan: 0.0953369141
+        interpolationType: HSD_A_OP_SLP
+      - frame: 108
+        value: -0.289245605
+        tan: 0.0953369141
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0
+        tan: 0.29486084
+        interpolationType: HSD_A_OP_SLP
+      - frame: 110
+        value: 0.310791016
+        tan: 0.305114746
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0
+        tan: 0.0157470703
+        interpolationType: HSD_A_OP_SLP
+      - frame: 111
+        value: 0.326538086
+        tan: 0.0157470703
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: -0.156982422
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: 0.169555664
+        tan: -0.156982422
+        interpolationType: HSD_A_OP_SPL
+      - frame: 115
+        value: 0
+        tan: -0.0803833008
+        interpolationType: HSD_A_OP_SLP
+      - frame: 115
+        value: 0.0390625
+        tan: -0.00537109375
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: 0.0195922852
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: 0.139282227
+        tan: 0.00518798828
+        interpolationType: HSD_A_OP_SPL
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0.773986816
+        tan: -0.026184082
+        interpolationType: HSD_A_OP_SPL
+      - frame: 5
+        value: 0.579406738
+        tan: -0.00830078125
+        interpolationType: HSD_A_OP_SPL
+      - frame: 6
+        value: 0
+        tan: 0.0535888672
+        interpolationType: HSD_A_OP_SLP
+      - frame: 6
+        value: 0.632995605
+        tan: 0.0535888672
+        interpolationType: HSD_A_OP_SPL
+      - frame: 7
+        value: 0
+        tan: 0.312072754
+        interpolationType: HSD_A_OP_SLP
+      - frame: 7
+        value: 0.945068359
+        tan: 0.312072754
+        interpolationType: HSD_A_OP_SPL
+      - frame: 8
+        value: 0
+        tan: 0.399963379
+        interpolationType: HSD_A_OP_SLP
+      - frame: 8
+        value: 1.34509277
+        tan: 0.399963379
+        interpolationType: HSD_A_OP_SPL
+      - frame: 9
+        value: 0
+        tan: 0.24822998
+        interpolationType: HSD_A_OP_SLP
+      - frame: 9
+        value: 1.59338379
+        tan: 0.24822998
+        interpolationType: HSD_A_OP_SPL
+      - frame: 10
+        value: 0
+        tan: 0.0608520508
+        interpolationType: HSD_A_OP_SLP
+      - frame: 10
+        value: 1.65423584
+        tan: 0.0608520508
+        interpolationType: HSD_A_OP_SPL
+      - frame: 22
+        value: 0
+        tan: -0.0126342773
+        interpolationType: HSD_A_OP_SLP
+      - frame: 22
+        value: 1.6048584
+        tan: 0.00134277344
+        interpolationType: HSD_A_OP_SPL
+      - frame: 32
+        value: 1.62249756
+        tan: -0.0123901367
+        interpolationType: HSD_A_OP_SPL
+      - frame: 41
+        value: 1.62927246
+        tan: 0.00720214844
+        interpolationType: HSD_A_OP_SPL
+      - frame: 51
+        value: 1.55499268
+        tan: 0.00518798828
+        interpolationType: HSD_A_OP_SPL
+      - frame: 59
+        value: 1.55963135
+        tan: -0.0172119141
+        interpolationType: HSD_A_OP_SPL
+      - frame: 70
+        value: 1.56604004
+        tan: 0.0029296875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 80
+        value: 0
+        tan: -0.00598144531
+        interpolationType: HSD_A_OP_SLP
+      - frame: 80
+        value: 1.49957275
+        tan: 0.0103759766
+        interpolationType: HSD_A_OP_SPL
+      - frame: 87
+        value: 1.48608398
+        tan: -0.0174560547
+        interpolationType: HSD_A_OP_SPL
+      - frame: 96
+        value: 1.54681396
+        tan: 0.0122680664
+        interpolationType: HSD_A_OP_SPL
+      - frame: 101
+        value: 0
+        tan: -0.00262451172
+        interpolationType: HSD_A_OP_SLP
+      - frame: 101
+        value: 1.32696533
+        tan: -0.0791015625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 104
+        value: 1.1506958
+        tan: -0.0285644531
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: 0
+        tan: 0.00573730469
+        interpolationType: HSD_A_OP_SLP
+      - frame: 108
+        value: 1.10083008
+        tan: -0.0557250977
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0
+        tan: 0.15447998
+        interpolationType: HSD_A_OP_SLP
+      - frame: 110
+        value: 1.43286133
+        tan: 0.177490234
+        interpolationType: HSD_A_OP_SPL
+      - frame: 113
+        value: 0
+        tan: 0.113830566
+        interpolationType: HSD_A_OP_SLP
+      - frame: 113
+        value: 1.64355469
+        tan: 0.0286254883
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: -0.0270996094
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: 1.39855957
+        tan: -0.0277709961
+        interpolationType: HSD_A_OP_SPL
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+  - tracks: []
+  - tracks:
+    - keys:
+      - frame: 0
+        value: -0.422729492
+        tan: 0.0157470703
+        interpolationType: HSD_A_OP_SPL
+      - frame: 5
+        value: -0.189880371
+        tan: 0.0408325195
+        interpolationType: HSD_A_OP_SPL
+      - frame: 6
+        value: 0
+        tan: -0.0130615234
+        interpolationType: HSD_A_OP_SLP
+      - frame: 6
+        value: -0.202941895
+        tan: -0.0130615234
+        interpolationType: HSD_A_OP_SPL
+      - frame: 8
+        value: 0
+        tan: -0.0938720703
+        interpolationType: HSD_A_OP_SLP
+      - frame: 8
+        value: -0.323791504
+        tan: -0.0269165039
+        interpolationType: HSD_A_OP_SPL
+      - frame: 9
+        value: 0
+        tan: 0.121704102
+        interpolationType: HSD_A_OP_SLP
+      - frame: 9
+        value: -0.202087402
+        tan: 0.121704102
+        interpolationType: HSD_A_OP_SPL
+      - frame: 10
+        value: 0
+        tan: 0.205749512
+        interpolationType: HSD_A_OP_SLP
+      - frame: 10
+        value: 0.00360107422
+        tan: 0.205749512
+        interpolationType: HSD_A_OP_SPL
+      - frame: 11
+        value: 0
+        tan: 0.112976074
+        interpolationType: HSD_A_OP_SLP
+      - frame: 11
+        value: 0.116638184
+        tan: 0.112976074
+        interpolationType: HSD_A_OP_SPL
+      - frame: 30
+        value: 0
+        tan: 0.00323486328
+        interpolationType: HSD_A_OP_SLP
+      - frame: 30
+        value: 0.200012207
+        tan: 0.0202636719
+        interpolationType: HSD_A_OP_SPL
+      - frame: 40
+        value: 0.248962402
+        tan: 0.00286865234
+        interpolationType: HSD_A_OP_SPL
+      - frame: 50
+        value: 0.31817627
+        tan: -0.0111083984
+        interpolationType: HSD_A_OP_SPL
+      - frame: 59
+        value: 0.321166992
+        tan: 0.00842285156
+        interpolationType: HSD_A_OP_SPL
+      - frame: 71
+        value: 0.240661621
+        tan: 0.00476074219
+        interpolationType: HSD_A_OP_SPL
+      - frame: 79
+        value: 0.186035156
+        tan: -0.020324707
+        interpolationType: HSD_A_OP_SPL
+      - frame: 89
+        value: 0.152648926
+        tan: -0.00561523438
+        interpolationType: HSD_A_OP_SPL
+      - frame: 99
+        value: 0
+        tan: -0.0186767578
+        interpolationType: HSD_A_OP_SLP
+      - frame: 99
+        value: -0.383361816
+        tan: -0.0197753906
+        interpolationType: HSD_A_OP_SPL
+      - frame: 104
+        value: 0
+        tan: 0.00567626953
+        interpolationType: HSD_A_OP_SLP
+      - frame: 104
+        value: -0.184570313
+        tan: 0.048828125
+        interpolationType: HSD_A_OP_SPL
+      - frame: 107
+        value: 0
+        tan: 0.0187988281
+        interpolationType: HSD_A_OP_SLP
+      - frame: 107
+        value: -0.126098633
+        tan: 0.0311279297
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: 0
+        tan: 0.100402832
+        interpolationType: HSD_A_OP_SLP
+      - frame: 108
+        value: -0.0256347656
+        tan: 0.100402832
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0
+        tan: -0.0833740234
+        interpolationType: HSD_A_OP_SLP
+      - frame: 111
+        value: -0.23260498
+        tan: -0.0387573242
+        interpolationType: HSD_A_OP_SPL
+      - frame: 117
+        value: 0
+        tan: 0.0121459961
+        interpolationType: HSD_A_OP_SLP
+      - frame: 117
+        value: -0.166320801
+        tan: -0.00244140625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: -0.160583496
+        tan: 0.00506591797
+        interpolationType: HSD_A_OP_SPL
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0.0227661133
+        tan: -0.0397338867
+        interpolationType: HSD_A_OP_SPL
+      - frame: 4
+        value: -0.223754883
+        tan: -0.0514526367
+        interpolationType: HSD_A_OP_SPL
+      - frame: 5
+        value: 0
+        tan: 0.0131225586
+        interpolationType: HSD_A_OP_SLP
+      - frame: 5
+        value: -0.210632324
+        tan: 0.0131225586
+        interpolationType: HSD_A_OP_SPL
+      - frame: 7
+        value: 0
+        tan: 0.102172852
+        interpolationType: HSD_A_OP_SLP
+      - frame: 7
+        value: 0.0122070313
+        tan: 0.120666504
+        interpolationType: HSD_A_OP_SPL
+      - frame: 8
+        value: 0
+        tan: 0.00701904297
+        interpolationType: HSD_A_OP_SLP
+      - frame: 8
+        value: 0.0192871094
+        tan: 0.00701904297
+        interpolationType: HSD_A_OP_SPL
+      - frame: 10
+        value: 0
+        tan: -0.108947754
+        interpolationType: HSD_A_OP_SLP
+      - frame: 10
+        value: -0.211547852
+        tan: -0.121887207
+        interpolationType: HSD_A_OP_SPL
+      - frame: 12
+        value: 0
+        tan: -0.0379638672
+        interpolationType: HSD_A_OP_SLP
+      - frame: 12
+        value: -0.22833252
+        tan: 0.0208740234
+        interpolationType: HSD_A_OP_SPL
+      - frame: 22
+        value: -0.149597168
+        tan: -0.00152587891
+        interpolationType: HSD_A_OP_SPL
+      - frame: 37
+        value: -0.138793945
+        tan: -0.00244140625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 51
+        value: -0.119873047
+        tan: -0.00140380859
+        interpolationType: HSD_A_OP_SPL
+      - frame: 66
+        value: -0.090637207
+        tan: 0.000549316406
+        interpolationType: HSD_A_OP_SPL
+      - frame: 80
+        value: -0.0410766602
+        tan: 0
+        interpolationType: HSD_A_OP_SPL
+      - frame: 96
+        value: -0.001953125
+        tan: -0.0288085938
+        interpolationType: HSD_A_OP_SPL
+      - frame: 103
+        value: 0
+        tan: -0.0447387695
+        interpolationType: HSD_A_OP_SLP
+      - frame: 103
+        value: -0.559753418
+        tan: -0.0967407227
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: 0
+        tan: -0.0770263672
+        interpolationType: HSD_A_OP_SLP
+      - frame: 108
+        value: -0.835571289
+        tan: -0.0642089844
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0
+        tan: -0.0485839844
+        interpolationType: HSD_A_OP_SLP
+      - frame: 109
+        value: -0.884216309
+        tan: -0.0485839844
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0
+        tan: 0.110778809
+        interpolationType: HSD_A_OP_SLP
+      - frame: 110
+        value: -0.7734375
+        tan: 0.110778809
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: 0.294067383
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: -0.221069336
+        tan: 0.258178711
+        interpolationType: HSD_A_OP_SPL
+      - frame: 114
+        value: 0
+        tan: 0.103393555
+        interpolationType: HSD_A_OP_SLP
+      - frame: 114
+        value: -0.068359375
+        tan: 0.0493164063
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: 0.00537109375
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: -0.217773438
+        tan: -0.0135498047
+        interpolationType: HSD_A_OP_SPL
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -0.354736328
+        tan: -0.0236816406
+        interpolationType: HSD_A_OP_SPL
+      - frame: 7
+        value: -0.499389648
+        tan: 0.0318603516
+        interpolationType: HSD_A_OP_SPL
+      - frame: 10
+        value: 0
+        tan: 0.0900268555
+        interpolationType: HSD_A_OP_SLP
+      - frame: 10
+        value: -0.280456543
+        tan: 0.0406494141
+        interpolationType: HSD_A_OP_SPL
+      - frame: 18
+        value: 0
+        tan: -0.01171875
+        interpolationType: HSD_A_OP_SLP
+      - frame: 18
+        value: -0.459228516
+        tan: -0.0110473633
+        interpolationType: HSD_A_OP_SPL
+      - frame: 31
+        value: -0.433532715
+        tan: 0.0150756836
+        interpolationType: HSD_A_OP_SPL
+      - frame: 44
+        value: -0.396972656
+        tan: 0.0214233398
+        interpolationType: HSD_A_OP_SPL
+      - frame: 51
+        value: -0.359680176
+        tan: -0.010925293
+        interpolationType: HSD_A_OP_SPL
+      - frame: 59
+        value: -0.289916992
+        tan: 0.0263061523
+        interpolationType: HSD_A_OP_SPL
+      - frame: 72
+        value: -0.205505371
+        tan: 0.033996582
+        interpolationType: HSD_A_OP_SPL
+      - frame: 79
+        value: -0.111938477
+        tan: -0.009765625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 86
+        value: -0.0500488281
+        tan: 0.0406494141
+        interpolationType: HSD_A_OP_SPL
+      - frame: 94
+        value: -0.0404052734
+        tan: -0.0419921875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 100
+        value: -0.208557129
+        tan: -6.10351563E-05
+        interpolationType: HSD_A_OP_SPL
+      - frame: 105
+        value: -0.0844726563
+        tan: 0.0547485352
+        interpolationType: HSD_A_OP_SPL
+      - frame: 106
+        value: 0
+        tan: -0.0963745117
+        interpolationType: HSD_A_OP_SLP
+      - frame: 106
+        value: -0.180908203
+        tan: -0.0963745117
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: 0
+        tan: -0.274414063
+        interpolationType: HSD_A_OP_SLP
+      - frame: 108
+        value: -0.745117188
+        tan: -0.289733887
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0
+        tan: 0.0123291016
+        interpolationType: HSD_A_OP_SLP
+      - frame: 109
+        value: -0.732788086
+        tan: 0.0123291016
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0
+        tan: 0.141662598
+        interpolationType: HSD_A_OP_SLP
+      - frame: 110
+        value: -0.591064453
+        tan: 0.141662598
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: 0.226013184
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: -0.155395508
+        tan: 0.209655762
+        interpolationType: HSD_A_OP_SPL
+      - frame: 115
+        value: 0
+        tan: 0.0930786133
+        interpolationType: HSD_A_OP_SLP
+      - frame: 115
+        value: -0.012878418
+        tan: 0.00201416016
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: -0.0254516602
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: -0.136535645
+        tan: -0.00756835938
+        interpolationType: HSD_A_OP_SPL
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+  - tracks: []
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0.0599975586
+        tan: 0.00378417969
+        interpolationType: HSD_A_OP_SPL
+      - frame: 6
+        value: -0.000549316406
+        tan: -0.0464477539
+        interpolationType: HSD_A_OP_SPL
+      - frame: 13
+        value: -0.134765625
+        tan: 0.00555419922
+        interpolationType: HSD_A_OP_SPL
+      - frame: 29
+        value: -0.132202148
+        tan: -0.00799560547
+        interpolationType: HSD_A_OP_SPL
+      - frame: 40
+        value: -0.0755615234
+        tan: -0.00964355469
+        interpolationType: HSD_A_OP_SPL
+      - frame: 49
+        value: -0.0433349609
+        tan: 0.0135498047
+        interpolationType: HSD_A_OP_SPL
+      - frame: 60
+        value: -0.0665893555
+        tan: 0.0154418945
+        interpolationType: HSD_A_OP_SPL
+      - frame: 67
+        value: -0.0192260742
+        tan: -0.0166625977
+        interpolationType: HSD_A_OP_SPL
+      - frame: 74
+        value: -0.0451049805
+        tan: 0.0205078125
+        interpolationType: HSD_A_OP_SPL
+      - frame: 81
+        value: -0.00604248047
+        tan: -0.020324707
+        interpolationType: HSD_A_OP_SPL
+      - frame: 87
+        value: -0.0345458984
+        tan: 0.0200805664
+        interpolationType: HSD_A_OP_SPL
+      - frame: 95
+        value: -0.0635375977
+        tan: -0.0479736328
+        interpolationType: HSD_A_OP_SPL
+      - frame: 100
+        value: -0.214172363
+        tan: 0.00555419922
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: -0.121154785
+        tan: 0.0262451172
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0
+        tan: 0.175415039
+        interpolationType: HSD_A_OP_SLP
+      - frame: 109
+        value: 0.0542602539
+        tan: 0.175415039
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0
+        tan: 0.268249512
+        interpolationType: HSD_A_OP_SLP
+      - frame: 110
+        value: 0.322509766
+        tan: 0.268249512
+        interpolationType: HSD_A_OP_SPL
+      - frame: 114
+        value: 0
+        tan: 0.113647461
+        interpolationType: HSD_A_OP_SLP
+      - frame: 114
+        value: 0.67578125
+        tan: 0.0500488281
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: 0.0181884766
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: 0.670166016
+        tan: 0.00793457031
+        interpolationType: HSD_A_OP_SPL
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0.350463867
+        tan: 0.0439453125
+        interpolationType: HSD_A_OP_SPL
+      - frame: 7
+        value: 0.278137207
+        tan: -0.0628051758
+        interpolationType: HSD_A_OP_SPL
+      - frame: 11
+        value: 0.0932617188
+        tan: -0.0194091797
+        interpolationType: HSD_A_OP_SPL
+      - frame: 23
+        value: -0.0432128906
+        tan: -0.0134277344
+        interpolationType: HSD_A_OP_SPL
+      - frame: 29
+        value: 0
+        tan: -0.0252685547
+        interpolationType: HSD_A_OP_SLP
+      - frame: 29
+        value: -0.106994629
+        tan: 0.00250244141
+        interpolationType: HSD_A_OP_SPL
+      - frame: 53
+        value: -0.102905273
+        tan: 0.00122070313
+        interpolationType: HSD_A_OP_SPL
+      - frame: 76
+        value: -0.0858154297
+        tan: 0.000366210938
+        interpolationType: HSD_A_OP_SPL
+      - frame: 90
+        value: -0.0690917969
+        tan: 0.00317382813
+        interpolationType: HSD_A_OP_SPL
+      - frame: 98
+        value: -0.0994262695
+        tan: -0.0159301758
+        interpolationType: HSD_A_OP_SPL
+      - frame: 104
+        value: -0.0426635742
+        tan: 0.0564575195
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: 0
+        tan: 0.109558105
+        interpolationType: HSD_A_OP_SLP
+      - frame: 108
+        value: 0.440979004
+        tan: 0.0933837891
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0
+        tan: 0.0662231445
+        interpolationType: HSD_A_OP_SLP
+      - frame: 109
+        value: 0.507202148
+        tan: 0.0662231445
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0
+        tan: -0.0783081055
+        interpolationType: HSD_A_OP_SLP
+      - frame: 111
+        value: 0.283691406
+        tan: -0.145202637
+        interpolationType: HSD_A_OP_SPL
+      - frame: 116
+        value: 0
+        tan: -0.102478027
+        interpolationType: HSD_A_OP_SLP
+      - frame: 116
+        value: 0.0510864258
+        tan: 0.00457763672
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: 0.0171508789
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: 0.104248047
+        tan: 6.10351563E-05
+        interpolationType: HSD_A_OP_SPL
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0.435180664
+        tan: 0.140991211
+        interpolationType: HSD_A_OP_SPL
+      - frame: 3
+        value: 0.73828125
+        tan: 0.0567626953
+        interpolationType: HSD_A_OP_SPL
+      - frame: 6
+        value: 0
+        tan: 0.00463867188
+        interpolationType: HSD_A_OP_SLP
+      - frame: 6
+        value: 0.618408203
+        tan: -0.081237793
+        interpolationType: HSD_A_OP_SPL
+      - frame: 10
+        value: 0
+        tan: -0.101928711
+        interpolationType: HSD_A_OP_SLP
+      - frame: 10
+        value: 0.323730469
+        tan: -0.0252685547
+        interpolationType: HSD_A_OP_SPL
+      - frame: 22
+        value: 0
+        tan: 0.00360107422
+        interpolationType: HSD_A_OP_SLP
+      - frame: 22
+        value: 0.287597656
+        tan: -0.025390625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 27
+        value: 0.22644043
+        tan: 0.0283203125
+        interpolationType: HSD_A_OP_SPL
+      - frame: 33
+        value: 0.281982422
+        tan: -0.0293579102
+        interpolationType: HSD_A_OP_SPL
+      - frame: 39
+        value: 0.158447266
+        tan: 0.018371582
+        interpolationType: HSD_A_OP_SPL
+      - frame: 45
+        value: 0
+        tan: 0.0344848633
+        interpolationType: HSD_A_OP_SLP
+      - frame: 45
+        value: 0.313110352
+        tan: -0.00134277344
+        interpolationType: HSD_A_OP_SPL
+      - frame: 53
+        value: 0
+        tan: -0.0153198242
+        interpolationType: HSD_A_OP_SLP
+      - frame: 53
+        value: 0.161010742
+        tan: 0.0197753906
+        interpolationType: HSD_A_OP_SPL
+      - frame: 59
+        value: 0
+        tan: 0.0361328125
+        interpolationType: HSD_A_OP_SLP
+      - frame: 59
+        value: 0.323608398
+        tan: -0.00445556641
+        interpolationType: HSD_A_OP_SPL
+      - frame: 67
+        value: 0
+        tan: -0.0187988281
+        interpolationType: HSD_A_OP_SLP
+      - frame: 67
+        value: 0.163696289
+        tan: 0.0208740234
+        interpolationType: HSD_A_OP_SPL
+      - frame: 72
+        value: 0
+        tan: 0.0379638672
+        interpolationType: HSD_A_OP_SLP
+      - frame: 72
+        value: 0.335083008
+        tan: 0.00756835938
+        interpolationType: HSD_A_OP_SPL
+      - frame: 81
+        value: 0
+        tan: -0.00939941406
+        interpolationType: HSD_A_OP_SLP
+      - frame: 81
+        value: 0.153442383
+        tan: 0.0210571289
+        interpolationType: HSD_A_OP_SPL
+      - frame: 86
+        value: 0
+        tan: 0.0388793945
+        interpolationType: HSD_A_OP_SLP
+      - frame: 86
+        value: 0.334472656
+        tan: 0.0104980469
+        interpolationType: HSD_A_OP_SPL
+      - frame: 95
+        value: 0
+        tan: -0.00866699219
+        interpolationType: HSD_A_OP_SLP
+      - frame: 95
+        value: -0.0880126953
+        tan: -0.0484619141
+        interpolationType: HSD_A_OP_SPL
+      - frame: 104
+        value: -1.01403809
+        tan: -0.138793945
+        interpolationType: HSD_A_OP_SPL
+      - frame: 106
+        value: 0
+        tan: -0.100158691
+        interpolationType: HSD_A_OP_SLP
+      - frame: 106
+        value: -1.14868164
+        tan: -0.034362793
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: 0
+        tan: 0.0397338867
+        interpolationType: HSD_A_OP_SLP
+      - frame: 108
+        value: -1.00305176
+        tan: 0.105834961
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0
+        tan: 0.336486816
+        interpolationType: HSD_A_OP_SLP
+      - frame: 109
+        value: -0.666503906
+        tan: 0.336486816
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0
+        tan: 0.470153809
+        interpolationType: HSD_A_OP_SLP
+      - frame: 110
+        value: -0.196411133
+        tan: 0.470153809
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0
+        tan: 0.32232666
+        interpolationType: HSD_A_OP_SLP
+      - frame: 111
+        value: 0.125854492
+        tan: 0.32232666
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: 0.176208496
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: 0.302001953
+        tan: 0.176208496
+        interpolationType: HSD_A_OP_SPL
+      - frame: 117
+        value: 0
+        tan: 0.0718383789
+        interpolationType: HSD_A_OP_SLP
+      - frame: 117
+        value: 0.40234375
+        tan: -0.0179443359
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0.364746094
+        tan: -0.0029296875
+        interpolationType: HSD_A_OP_SPL
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0.825866699
+        tan: 0.0303344727
+        interpolationType: HSD_A_OP_SPL
+      - frame: 7
+        value: 1.01654053
+        tan: 0.036315918
+        interpolationType: HSD_A_OP_SPL
+      - frame: 19
+        value: 1.15228271
+        tan: -0.00811767578
+        interpolationType: HSD_A_OP_SPL
+      - frame: 28
+        value: 1.06384277
+        tan: -0.0181884766
+        interpolationType: HSD_A_OP_SPL
+      - frame: 37
+        value: 1.08227539
+        tan: 0.0127563477
+        interpolationType: HSD_A_OP_SPL
+      - frame: 46
+        value: 0
+        tan: -0.0009765625
+        interpolationType: HSD_A_OP_SLP
+      - frame: 46
+        value: 0.967956543
+        tan: 0.00506591797
+        interpolationType: HSD_A_OP_SPL
+      - frame: 54
+        value: 0.996643066
+        tan: -0.0246582031
+        interpolationType: HSD_A_OP_SPL
+      - frame: 64
+        value: 0.977111816
+        tan: 0.0166625977
+        interpolationType: HSD_A_OP_SPL
+      - frame: 73
+        value: 0.872436523
+        tan: 0.000244140625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 82
+        value: 0.906799316
+        tan: -0.0275878906
+        interpolationType: HSD_A_OP_SPL
+      - frame: 91
+        value: 0.887329102
+        tan: 0.0366210938
+        interpolationType: HSD_A_OP_SPL
+      - frame: 97
+        value: 1.0647583
+        tan: 0.0186767578
+        interpolationType: HSD_A_OP_SPL
+      - frame: 105
+        value: 1.22119141
+        tan: -0.0462036133
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0
+        tan: -0.092590332
+        interpolationType: HSD_A_OP_SLP
+      - frame: 109
+        value: 0.795776367
+        tan: -0.145629883
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0
+        tan: -0.115661621
+        interpolationType: HSD_A_OP_SLP
+      - frame: 110
+        value: 0.680053711
+        tan: -0.115661621
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0
+        tan: 0.0961303711
+        interpolationType: HSD_A_OP_SLP
+      - frame: 111
+        value: 0.776245117
+        tan: 0.0961303711
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: 0.0241088867
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: 0.800354004
+        tan: 0.0241088867
+        interpolationType: HSD_A_OP_SPL
+      - frame: 116
+        value: 0
+        tan: -0.0759277344
+        interpolationType: HSD_A_OP_SLP
+      - frame: 116
+        value: 0.522888184
+        tan: -0.0458984375
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: -0.0361938477
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: 0.38269043
+        tan: -0.0434570313
+        interpolationType: HSD_A_OP_SPL
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      - frame: 120
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_CON
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+  - tracks: []
+  - tracks:
+    - keys:
+      - frame: 0
+        value: -0.532226563
+        tan: -0.000732421875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 19
+        value: -0.29107666
+        tan: 0.00830078125
+        interpolationType: HSD_A_OP_SPL
+      - frame: 34
+        value: -0.272705078
+        tan: -0.00695800781
+        interpolationType: HSD_A_OP_SPL
+      - frame: 45
+        value: -0.251403809
+        tan: -0.0113525391
+        interpolationType: HSD_A_OP_SPL
+      - frame: 55
+        value: -0.257141113
+        tan: 0.00885009766
+        interpolationType: HSD_A_OP_SPL
+      - frame: 67
+        value: -0.312255859
+        tan: 0.00921630859
+        interpolationType: HSD_A_OP_SPL
+      - frame: 75
+        value: -0.339477539
+        tan: -0.0120849609
+        interpolationType: HSD_A_OP_SPL
+      - frame: 84
+        value: -0.343811035
+        tan: -0.000671386719
+        interpolationType: HSD_A_OP_SPL
+      - frame: 95
+        value: -0.45098877
+        tan: -0.0103759766
+        interpolationType: HSD_A_OP_SPL
+      - frame: 105
+        value: -0.741943359
+        tan: -0.0157470703
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0
+        tan: 0.0103759766
+        interpolationType: HSD_A_OP_SLP
+      - frame: 110
+        value: -0.543701172
+        tan: 0.080871582
+        interpolationType: HSD_A_OP_SPL
+      - frame: 113
+        value: 0
+        tan: 0.0576171875
+        interpolationType: HSD_A_OP_SLP
+      - frame: 113
+        value: -0.401733398
+        tan: 0.0127563477
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: 0.0423583984
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: -0.171325684
+        tan: 0.0278930664
+        interpolationType: HSD_A_OP_SPL
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: -0.235900879
+        tan: -0.131713867
+        interpolationType: HSD_A_OP_SPL
+      - frame: 3
+        value: -0.52355957
+        tan: -0.0573730469
+        interpolationType: HSD_A_OP_SPL
+      - frame: 6
+        value: 0
+        tan: -0.0141601563
+        interpolationType: HSD_A_OP_SLP
+      - frame: 6
+        value: -0.44744873
+        tan: 0.0631713867
+        interpolationType: HSD_A_OP_SPL
+      - frame: 10
+        value: 0
+        tan: 0.0869750977
+        interpolationType: HSD_A_OP_SLP
+      - frame: 10
+        value: -0.181152344
+        tan: 0.0242919922
+        interpolationType: HSD_A_OP_SPL
+      - frame: 25
+        value: 0
+        tan: -0.00384521484
+        interpolationType: HSD_A_OP_SLP
+      - frame: 25
+        value: -0.199523926
+        tan: 0.0275878906
+        interpolationType: HSD_A_OP_SPL
+      - frame: 32
+        value: 0
+        tan: 0.0009765625
+        interpolationType: HSD_A_OP_SLP
+      - frame: 32
+        value: -0.220703125
+        tan: 0.0274047852
+        interpolationType: HSD_A_OP_SPL
+      - frame: 39
+        value: -0.177062988
+        tan: -0.0341186523
+        interpolationType: HSD_A_OP_SPL
+      - frame: 44
+        value: -0.286071777
+        tan: 0.00970458984
+        interpolationType: HSD_A_OP_SPL
+      - frame: 53
+        value: 0
+        tan: 0.0213623047
+        interpolationType: HSD_A_OP_SLP
+      - frame: 53
+        value: -0.211853027
+        tan: -0.0368041992
+        interpolationType: HSD_A_OP_SPL
+      - frame: 58
+        value: -0.336242676
+        tan: 0.00885009766
+        interpolationType: HSD_A_OP_SPL
+      - frame: 66
+        value: 0
+        tan: 0.0242919922
+        interpolationType: HSD_A_OP_SLP
+      - frame: 66
+        value: -0.222229004
+        tan: -0.0205688477
+        interpolationType: HSD_A_OP_SPL
+      - frame: 72
+        value: 0
+        tan: -0.0348510742
+        interpolationType: HSD_A_OP_SLP
+      - frame: 72
+        value: -0.38848877
+        tan: 0.0129394531
+        interpolationType: HSD_A_OP_SPL
+      - frame: 79
+        value: 0
+        tan: 0.029296875
+        interpolationType: HSD_A_OP_SLP
+      - frame: 79
+        value: -0.238830566
+        tan: -0.00732421875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 86
+        value: 0
+        tan: -0.0204467773
+        interpolationType: HSD_A_OP_SLP
+      - frame: 86
+        value: -0.418273926
+        tan: 0.015625
+        interpolationType: HSD_A_OP_SPL
+      - frame: 94
+        value: 0
+        tan: 0.0303955078
+        interpolationType: HSD_A_OP_SLP
+      - frame: 94
+        value: -0.331115723
+        tan: -0.0243530273
+        interpolationType: HSD_A_OP_SPL
+      - frame: 98
+        value: -0.360412598
+        tan: 0.0258789063
+        interpolationType: HSD_A_OP_SPL
+      - frame: 104
+        value: 0
+        tan: 0.0565795898
+        interpolationType: HSD_A_OP_SLP
+      - frame: 104
+        value: 0.186645508
+        tan: 0.115356445
+        interpolationType: HSD_A_OP_SPL
+      - frame: 107
+        value: 0
+        tan: 0.0922851563
+        interpolationType: HSD_A_OP_SLP
+      - frame: 107
+        value: 0.33605957
+        tan: 0.00604248047
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0
+        tan: -0.0268554688
+        interpolationType: HSD_A_OP_SLP
+      - frame: 111
+        value: 0.29675293
+        tan: 0.00543212891
+        interpolationType: HSD_A_OP_SPL
+      - frame: 117
+        value: 0
+        tan: -0.0531005859
+        interpolationType: HSD_A_OP_SLP
+      - frame: 117
+        value: 0.239746094
+        tan: -0.00250244141
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0.232788086
+        tan: -0.00146484375
+        interpolationType: HSD_A_OP_SPL
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0.211120605
+        tan: -0.0700073242
+        interpolationType: HSD_A_OP_SPL
+      - frame: 5
+        value: 0.0753173828
+        tan: -0.0305175781
+        interpolationType: HSD_A_OP_SPL
+      - frame: 17
+        value: 0
+        tan: -0.0565795898
+        interpolationType: HSD_A_OP_SLP
+      - frame: 17
+        value: -0.436462402
+        tan: -0.0207519531
+        interpolationType: HSD_A_OP_SPL
+      - frame: 27
+        value: -0.478637695
+        tan: -0.0108032227
+        interpolationType: HSD_A_OP_SPL
+      - frame: 37
+        value: -0.35534668
+        tan: 0.00579833984
+        interpolationType: HSD_A_OP_SPL
+      - frame: 44
+        value: 0
+        tan: -0.009765625
+        interpolationType: HSD_A_OP_SLP
+      - frame: 44
+        value: -0.444274902
+        tan: 0.0174560547
+        interpolationType: HSD_A_OP_SPL
+      - frame: 53
+        value: -0.338928223
+        tan: -0.0217285156
+        interpolationType: HSD_A_OP_SPL
+      - frame: 59
+        value: -0.365844727
+        tan: 0.0215454102
+        interpolationType: HSD_A_OP_SPL
+      - frame: 67
+        value: -0.279602051
+        tan: -0.017578125
+        interpolationType: HSD_A_OP_SPL
+      - frame: 73
+        value: -0.293334961
+        tan: 0.0203857422
+        interpolationType: HSD_A_OP_SPL
+      - frame: 82
+        value: -0.215454102
+        tan: -0.0119628906
+        interpolationType: HSD_A_OP_SPL
+      - frame: 95
+        value: -0.0601196289
+        tan: 0.00964355469
+        interpolationType: HSD_A_OP_SPL
+      - frame: 101
+        value: 0.0598144531
+        tan: 0.0203857422
+        interpolationType: HSD_A_OP_SPL
+      - frame: 103
+        value: 0
+        tan: 0.0522460938
+        interpolationType: HSD_A_OP_SLP
+      - frame: 103
+        value: 0.209472656
+        tan: 0.0973510742
+        interpolationType: HSD_A_OP_SPL
+      - frame: 105
+        value: 0
+        tan: 0.165100098
+        interpolationType: HSD_A_OP_SLP
+      - frame: 105
+        value: 0.505859375
+        tan: 0.131225586
+        interpolationType: HSD_A_OP_SPL
+      - frame: 106
+        value: 0
+        tan: 0.0341796875
+        interpolationType: HSD_A_OP_SLP
+      - frame: 106
+        value: 0.540039063
+        tan: 0.0341796875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 108
+        value: 0
+        tan: -0.0919799805
+        interpolationType: HSD_A_OP_SLP
+      - frame: 108
+        value: 0.291687012
+        tan: -0.156311035
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0
+        tan: -0.174865723
+        interpolationType: HSD_A_OP_SLP
+      - frame: 109
+        value: 0.116821289
+        tan: -0.174865723
+        interpolationType: HSD_A_OP_SPL
+      - frame: 110
+        value: 0
+        tan: 0.0126342773
+        interpolationType: HSD_A_OP_SLP
+      - frame: 110
+        value: 0.129455566
+        tan: 0.0126342773
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0
+        tan: 0.269897461
+        interpolationType: HSD_A_OP_SLP
+      - frame: 112
+        value: 0.601257324
+        tan: 0.201843262
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0
+        tan: 0.0444946289
+        interpolationType: HSD_A_OP_SLP
+      - frame: 120
+        value: 0.547058105
+        tan: -0.0120849609
+        interpolationType: HSD_A_OP_SPL
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+  - tracks:
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      - frame: 107
+        value: 0
+        tan: 0.00341796875
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0.377655029
+        tan: 0.135925293
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0.543823242
+        tan: -0.0727539063
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: 0.159362793
+        tan: -0.0426635742
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: 0.159362793
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 1
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTX
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      - frame: 107
+        value: 0
+        tan: 0.000915527344
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0.103820801
+        tan: 0.000671386719
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: 0.00274658203
+        tan: -0.0393676758
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: -0.0142822266
+        tan: -0.00189208984
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: -0.0142822266
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 2
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTY
+      frameCount: 120
+    - keys:
+      - frame: 0
+        value: 0
+        tan: 0
+        interpolationType: HSD_A_OP_SPL
+      - frame: 5
+        value: 0.000244140625
+        tan: -0.0192871094
+        interpolationType: HSD_A_OP_SPL
+      - frame: 18
+        value: -0.347961426
+        tan: 0
+        interpolationType: HSD_A_OP_SPL
+      - frame: 107
+        value: 0
+        tan: 0.00433349609
+        interpolationType: HSD_A_OP_SPL
+      - frame: 109
+        value: 0.0490722656
+        tan: -0.0562744141
+        interpolationType: HSD_A_OP_SPL
+      - frame: 111
+        value: -0.225158691
+        tan: -0.193359375
+        interpolationType: HSD_A_OP_SPL
+      - frame: 112
+        value: -0.53112793
+        tan: -0.0339355469
+        interpolationType: HSD_A_OP_SPL
+      - frame: 120
+        value: -0.53112793
+        tan: 0
+        interpolationType: HSD_A_OP_SPL0
+      trackType: 3
+      ptclBank: 0
+      ptclId: 0
+      jointTrackType: HSD_A_J_ROTZ
+      frameCount: 120
+  - tracks: []
+  - tracks: []
+hiddenNodes:
+- 37
+- 38
+- 39
+- 40
+- 41
+- 42
+- 43
+- 44
+- 45
+- 46
+- 47
+- 48
+- 49
+- 50
+- 51
+- 52

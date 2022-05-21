@@ -1,0 +1,447 @@
+functions:
+  onLoad: 2148644392
+  onRespawn: 2148644124
+  onDestroy: 0
+  moveLogic:
+  - animationID: 295
+    stateFlags: 0
+    attackID: 1
+    bitFlags: 0
+    animationCallBack: 2148645944
+    iASACallBack: 2148646028
+    physicsCallback: 2148646168
+    collisionCallback: 2148646204
+    cameraCallback: 2147967432
+  - animationID: 296
+    stateFlags: 0
+    attackID: 1
+    bitFlags: 0
+    animationCallBack: 2148646384
+    iASACallBack: 2148646444
+    physicsCallback: 2148646448
+    collisionCallback: 2148646480
+    cameraCallback: 2147967432
+  - animationID: 297
+    stateFlags: 0
+    attackID: 1
+    bitFlags: 0
+    animationCallBack: 2148646384
+    iASACallBack: 2148646444
+    physicsCallback: 2148646448
+    collisionCallback: 2148646480
+    cameraCallback: 2147967432
+  - animationID: 68
+    stateFlags: 2360332
+    attackID: 13
+    bitFlags: 0
+    animationCallBack: 2148646792
+    iASACallBack: 2148646980
+    physicsCallback: 2148647264
+    collisionCallback: 2148647320
+    cameraCallback: 2147967432
+  - animationID: 69
+    stateFlags: 2360333
+    attackID: 14
+    bitFlags: 0
+    animationCallBack: 2148646792
+    iASACallBack: 2148646980
+    physicsCallback: 2148647264
+    collisionCallback: 2148647320
+    cameraCallback: 2147967432
+  - animationID: 70
+    stateFlags: 2360334
+    attackID: 15
+    bitFlags: 0
+    animationCallBack: 2148646792
+    iASACallBack: 2148646980
+    physicsCallback: 2148647264
+    collisionCallback: 2148647320
+    cameraCallback: 2147967432
+  - animationID: 71
+    stateFlags: 2360335
+    attackID: 16
+    bitFlags: 0
+    animationCallBack: 2148646792
+    iASACallBack: 2148646980
+    physicsCallback: 2148647264
+    collisionCallback: 2148647320
+    cameraCallback: 2147967432
+  - animationID: 72
+    stateFlags: 2360336
+    attackID: 17
+    bitFlags: 0
+    animationCallBack: 2148646792
+    iASACallBack: 2148646980
+    physicsCallback: 2148647264
+    collisionCallback: 2148647320
+    cameraCallback: 2147967432
+  - animationID: 298
+    stateFlags: 2361865
+    attackID: 10
+    bitFlags: 0
+    animationCallBack: 2148647496
+    iASACallBack: 2148647556
+    physicsCallback: 2148647604
+    collisionCallback: 2148647636
+    cameraCallback: 2147967432
+  - animationID: 299
+    stateFlags: 2361865
+    attackID: 10
+    bitFlags: 0
+    animationCallBack: 2148647496
+    iASACallBack: 2148647556
+    physicsCallback: 2148647604
+    collisionCallback: 2148647636
+    cameraCallback: 2147967432
+  - animationID: 300
+    stateFlags: 2361865
+    attackID: 10
+    bitFlags: 0
+    animationCallBack: 2148647496
+    iASACallBack: 2148647556
+    physicsCallback: 2148647604
+    collisionCallback: 2148647636
+    cameraCallback: 2147967432
+  - animationID: 301
+    stateFlags: 3407892
+    attackID: 21
+    bitFlags: 0
+    animationCallBack: 2148651756
+    iASACallBack: 0
+    physicsCallback: 2148651924
+    collisionCallback: 2148651988
+    cameraCallback: 2147967432
+  - animationID: 301
+    stateFlags: 3407892
+    attackID: 21
+    bitFlags: 0
+    animationCallBack: 2148651840
+    iASACallBack: 0
+    physicsCallback: 2148651956
+    collisionCallback: 2148652028
+    cameraCallback: 2147967432
+  - animationID: 302
+    stateFlags: 3408402
+    attackID: 19
+    bitFlags: 0
+    animationCallBack: 2148648176
+    iASACallBack: 2148648424
+    physicsCallback: 2148648432
+    collisionCallback: 2148648548
+    cameraCallback: 2147967432
+  - animationID: 303
+    stateFlags: 3408402
+    attackID: 19
+    bitFlags: 0
+    animationCallBack: 2148649604
+    iASACallBack: 2148649724
+    physicsCallback: 2148649732
+    collisionCallback: 2148649796
+    cameraCallback: 2147967432
+  - animationID: 304
+    stateFlags: 3408402
+    attackID: 19
+    bitFlags: 0
+    animationCallBack: 0
+    iASACallBack: 0
+    physicsCallback: 0
+    collisionCallback: 0
+    cameraCallback: 2147967432
+  - animationID: 305
+    stateFlags: 3409426
+    attackID: 19
+    bitFlags: 0
+    animationCallBack: 2148648328
+    iASACallBack: 2148648428
+    physicsCallback: 2148648516
+    collisionCallback: 2148648700
+    cameraCallback: 2147967432
+  - animationID: 306
+    stateFlags: 3409426
+    attackID: 19
+    bitFlags: 0
+    animationCallBack: 2148649664
+    iASACallBack: 2148649728
+    physicsCallback: 2148649764
+    collisionCallback: 2148649856
+    cameraCallback: 2147967432
+  - animationID: 307
+    stateFlags: 3409426
+    attackID: 19
+    bitFlags: 0
+    animationCallBack: 2148649664
+    iASACallBack: 2148649728
+    physicsCallback: 2148649764
+    collisionCallback: 2148649856
+    cameraCallback: 2147967432
+  - animationID: 304
+    stateFlags: 3409426
+    attackID: 19
+    bitFlags: 0
+    animationCallBack: 2148649080
+    iASACallBack: 2148649160
+    physicsCallback: 2148649164
+    collisionCallback: 2148649276
+    cameraCallback: 2147967432
+  - animationID: 308
+    stateFlags: 3407891
+    attackID: 20
+    bitFlags: 0
+    animationCallBack: 2148653264
+    iASACallBack: 2148653616
+    physicsCallback: 2148654272
+    collisionCallback: 2148654524
+    cameraCallback: 2147967432
+  - animationID: 309
+    stateFlags: 3407891
+    attackID: 20
+    bitFlags: 0
+    animationCallBack: 2148654748
+    iASACallBack: 2148654940
+    physicsCallback: 2148654948
+    collisionCallback: 2148655252
+    cameraCallback: 2147967432
+  - animationID: 310
+    stateFlags: 3408915
+    attackID: 20
+    bitFlags: 0
+    animationCallBack: 2148653440
+    iASACallBack: 2148653944
+    physicsCallback: 2148654328
+    collisionCallback: 2148654636
+    cameraCallback: 2147967432
+  - animationID: 311
+    stateFlags: 3408915
+    attackID: 20
+    bitFlags: 0
+    animationCallBack: 2148654844
+    iASACallBack: 2148654944
+    physicsCallback: 2148655056
+    collisionCallback: 2148655364
+    cameraCallback: 2147967432
+  - animationID: 312
+    stateFlags: 3407889
+    attackID: 18
+    bitFlags: 0
+    animationCallBack: 2148656376
+    iASACallBack: 2148656752
+    physicsCallback: 2148656760
+    collisionCallback: 2148656988
+    cameraCallback: 2147967432
+  - animationID: 313
+    stateFlags: 3407889
+    attackID: 18
+    bitFlags: 0
+    animationCallBack: 2148657568
+    iASACallBack: 2148657768
+    physicsCallback: 2148657776
+    collisionCallback: 2148657888
+    cameraCallback: 2147967432
+  - animationID: 314
+    stateFlags: 3408913
+    attackID: 18
+    bitFlags: 0
+    animationCallBack: 2148656564
+    iASACallBack: 2148656756
+    physicsCallback: 2148656812
+    collisionCallback: 2148657048
+    cameraCallback: 2147967432
+  - animationID: 315
+    stateFlags: 3408913
+    attackID: 18
+    bitFlags: 0
+    animationCallBack: 2148657668
+    iASACallBack: 2148657772
+    physicsCallback: 2148657808
+    collisionCallback: 2148657948
+    cameraCallback: 2147967432
+  - animationID: 316
+    stateFlags: 4456536
+    attackID: 87
+    bitFlags: 128
+    animationCallBack: 2148331704
+    iASACallBack: 2148331800
+    physicsCallback: 2148331936
+    collisionCallback: 2148332120
+    cameraCallback: 2147967432
+  - animationID: 317
+    stateFlags: 4980824
+    attackID: 87
+    bitFlags: 128
+    animationCallBack: 2148332580
+    iASACallBack: 2148332584
+    physicsCallback: 2148332692
+    collisionCallback: 2148332724
+    cameraCallback: 2147967432
+  moveLogicPointer: 0
+  demoMoveLogicPointer: 0
+  specialN: 2148656080
+  specialNAir: 2148656220
+  specialHi: 2148652844
+  specialHiAir: 2148653040
+  specialLw: 2148651292
+  specialLwAir: 2148651460
+  specialS: 2148647756
+  specialSAir: 2148647876
+  onSmashHi: 0
+  onSmashLw: 0
+  onSmashF: 0
+  onAbsorb: 0
+  onItemPickup: 2148644672
+  onMakeItemInvisible: 2148644896
+  onMakeItemVisible: 2148644968
+  onItemRelease: 2148645040
+  onItemCatch: 2148644672
+  onUnknownItemRelated: 2148645040
+  onApplyHeadItem: 0
+  onRemoveHeadItem: 0
+  eyeTextureDamaged: 2148645272
+  eyeTextureNormal: 2148645340
+  onFrame: 0
+  onActionStateChange: 0
+  resetAttribute: 2148645124
+  onModelRender: 0
+  onShadowRender: 0
+  onUnknownMultijump: 0
+  onActionStateChangeWhileEyeTextureIsChanged1: 0
+  onActionStateChangeWhileEyeTextureIsChanged2: 0
+  onTwoEntryTable1: 0
+  onTwoEntryTable2: 14
+  onLanding: 0
+  onExtRstAnim: 0
+  onIndexExtRstAnim: 0
+  enterFloat: 0
+  enterDoubleJump: 2148319464
+  enterTether: 0
+  onThrowFw: 0
+  onThrowBk: 0
+  onThrowHi: 0
+  onThrowLw: 0
+  getSwordTrail: 0
+  kirbySpecialN: 2148582612
+  kirbySpecialNAir: 2148582752
+  kirbyOnSwallow: 2148467140
+  kirbyOnLoseAbility: 2148467316
+  kirbyOnHit: 0
+  kirbyOnDeath: 0
+  kirbyOnItemInit: 0
+  kirbyOnFrame: 0
+unkTable: 
+boneTable:
+  boneCount: 114
+  top: 0
+  trans: 1
+  xRot: 2
+  yRot: 3
+  hip: 4
+  waist: 255
+  lLegA: 5
+  lLeg: 6
+  lKnee: 7
+  lFootA: 8
+  lFoot: 9
+  rLegA: 11
+  rLeg: 12
+  rKnee: 13
+  rFootA: 14
+  rFoot: 15
+  waistB: 66
+  bust: 67
+  lClavicle: 69
+  lShoulderA: 70
+  lShoulder: 71
+  lArm: 72
+  lHand: 74
+  lIndex1: 75
+  lIndex2: 76
+  lMiddle1: 77
+  lMiddle2: 78
+  lRing1: 79
+  lRing2: 80
+  lPinky1: 81
+  lPinky2: 82
+  lHave: 83
+  lThumb1: 84
+  lThumb2: 85
+  neckN: 86
+  headN: 87
+  rClavicle: 95
+  rShoulderA: 96
+  rShoulder: 97
+  rArm: 98
+  rHand: 100
+  rIndex1: 101
+  rIndex2: 102
+  rMiddle1: 103
+  rMiddle2: 104
+  rRing1: 105
+  rRing2: 106
+  rPinky1: 107
+  rPinky2: 108
+  rHave: 109
+  rThumb1: 110
+  rThumb2: 111
+  throw: 112
+  extra: 113
+items: []
+costumes:
+- fileName: PlPeNr.dat
+  modelSymbol: PlyPeach5K_Share_joint
+  materialSymbol: PlyPeach5K_Share_matanim_joint
+  visibilityIndex: 0
+- fileName: PlPeYe.dat
+  modelSymbol: PlyPeach5KYe_Share_joint
+  materialSymbol: PlyPeach5KYe_Share_matanim_joint
+  visibilityIndex: 1
+- fileName: PlPeWh.dat
+  modelSymbol: PlyPeach5KWh_Share_joint
+  materialSymbol: PlyPeach5KWh_Share_matanim_joint
+  visibilityIndex: 2
+- fileName: PlPeBu.dat
+  modelSymbol: PlyPeach5KBu_Share_joint
+  materialSymbol: PlyPeach5KBu_Share_matanim_joint
+  visibilityIndex: 3
+- fileName: PlPeGr.dat
+  modelSymbol: PlyPeach5KGr_Share_joint
+  materialSymbol: PlyPeach5KGr_Share_matanim_joint
+  visibilityIndex: 4
+kirbyCostumes: []
+sSMBitfield1: 0
+sSMBitfield2: 4194304
+nameText: Peach
+fighterDataPath: PlPe.dat
+fighterDataSymbol: ftDataPeach
+insigniaID: 6
+animFile: PlPeAJ.dat
+animCount: 318
+rstAnimFile: GmRstMPe.dat
+rstAnimCount: 14
+demoFile: PlPeDViWaitAJ.dat
+demoWait: ftDemoViWaitMotionFilePeach
+demoResult: ftDemoResultMotionFilePeach
+demoIntro: ftDemoIntroMotionFilePeach
+demoEnding: ftDemoEndingMotionFilePeach
+endClassicFile: GmRegendSimplePeach.thp
+endAdventureFile: GmRegendAdventurePeach.thp
+endAllStarFile: GmRegendAllstarPeach.thp
+endMovieFile: MvEndPeach.mth
+victoryTheme:
+  fileName: ff_mario.hps
+  label: Super Mario Fanfare
+fighterSongID1: &o0
+  fileName: rcruise.hps
+  label: Rainbow Cruise
+fighterSongID2: *o0
+effectFile: EfPeData.dat
+effectSymbol: effPeachDataTable
+kirbyEffectFile: 
+kirbyEffectSymbol: 
+kirbyCapFileName: PlKbCpPe.dat
+kirbyCapSymbol: ftDataKirbyCopyPeach
+racetoTheFinishTime: 50
+resultScreenScale: 0.899999976
+canWallJump: false
+subCharacterBehavior: SpawnSimultaneously
+redCostumeIndex: 0
+blueCostumeIndex: 3
+greenCostumeIndex: 4

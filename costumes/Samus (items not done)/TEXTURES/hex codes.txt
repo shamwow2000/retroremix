@@ -1,0 +1,12 @@
+orange: fc9838
+green: 009400
+red: d82800
+
+varia pink: fcc4d8
+
+varia purple: f478fc
+missile visor: 00e8d8
+
+justin bailey purple: e40058
+justin bailey green: 009400
+justin bailey pink: fcc4fc

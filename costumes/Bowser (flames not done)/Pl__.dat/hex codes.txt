@@ -1,0 +1,16 @@
+green: 00a800
+skin: fc9838
+white: fcfcfc
+
+imposter bowser
+blue: 008088
+brown: c84c0c
+light brown: fcbcb0
+
+smb3 bowser
+skin: e59b33
+green: 0d9300
+
+smb1 goomba bows
+brown: c84c0c
+skin: fcbcb0 

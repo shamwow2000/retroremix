@@ -1,0 +1,77 @@
+frame: 0
+cSPMode: false
+showGrid: false
+showBackdrop: false
+camera:
+  x: -0.99161166
+  y: 12.8412495
+  z: -62.6871033
+  scale: 1
+  fovRadians: 0.52359879
+  rotationXRadians: 0.0663225427
+  rotationYRadians: 0.289724529
+  farClipPlane: 100000
+  nearClipPlane: 10
+settings:
+  renderObjects: Visible
+  renderBones: false
+  renderOrientation: false
+  outlineSelected: false
+  renderSplines: false
+lighting:
+  useCameraLight: true
+  lightX: 0
+  lightY: 10
+  lightZ: 50
+  ambientPower: 0.5
+  ambientR: 255
+  ambientG: 255
+  ambientB: 255
+  diffusePower: 1
+  diffuseR: 255
+  diffuseG: 255
+  diffuseB: 255
+  usePerPixelLighting: true
+  saturation: 1
+animation:
+  frameModifier: []
+  enableBoneLookup: false
+  boneLookup: {}
+  frameCount: 0
+  nodeCount: 0
+  nodes: []
+hiddenNodes:
+- 19
+- 25
+- 26
+- 27
+- 28
+- 29
+- 30
+- 31
+- 32
+- 38
+- 39
+- 42
+- 47
+- 48
+- 49
+- 51
+- 52
+- 53
+- 54
+- 59
+- 63
+- 66
+- 67
+- 71
+- 73
+- 74
+- 80
+- 82
+- 84
+- 86
+- 88
+- 91
+- 92
+- 93

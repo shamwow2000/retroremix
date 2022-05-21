@@ -1,0 +1,28 @@
+smb1 luigi
+green (shirt, hair, shoes): 009400
+white (overalls, hat): fcfcfc
+skin: fc9838
+
+smbdx luigi
+brown (shirt, hair, shoes): 876f16
+green (overalls, hat): 00b200
+skin: fa9744
+
+smb2 luigi
+green (shirt, hat, shoes): 4cdc48
+blue (overalls, hair, cap, mouth): 24188c
+skin: fcbcb0
+
+mario bros luigi
+green (overalls, hat): 11ef12
+brown (shirt): 250104
+skin (face, hands): f49ea0
+blue (shoes): 4c07ff
+brown (hair, moustache): 6b2907
+black (eyes, mouth)
+white (overall buttons): fefcff
+
+wrecking crew luigi
+magenta (overalls, hat): e40058
+skin (shirt, face): fcbcb0
+blue (shoes, hair): 0000a8

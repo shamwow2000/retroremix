@@ -1,0 +1,21 @@
+green: 80d010
+light brown: fc9838
+brown: c84c0c
+blue ring: c4d4fc
+red ring: d82800
+white sword dark blue: 0000a8
+white sword light blue: 5c94fc
+white/magic sword blade: fcfcfc
+
+eye fix: 15, 8, 13
+
+BOTW Link
+tunic/hat/eyes: 2a7afd
+skin: fbdca7
+mouth/belt: c85737
+sleeves: 565c6f
+boots: b17c3a
+hair: de833c
+shield front: 4f17e1
+shield cross: ec0e3b
+shield back: b4a4b3
